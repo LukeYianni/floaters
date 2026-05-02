@@ -6,144 +6,158 @@
 A short-term personal advantage representing immediate opportunity.
 
 - Each character has **0–2 Edge**
-- Edge is fast, tactical, and individual
-
+  
 #### Spend Edge to:
 - Gain **+1d** to your own roll
-- Create a **small advantage** (positioning, setup, minor effect)
-
-#### Constraints:
-- Max 2 Edge
-- Encourages rapid use rather than hoarding
+- Create a **small advantage**
 
 ---
 
 ### Flow (Crew)
-A shared resource representing team synergy and momentum.
+A shared resource representing team synergy.
 
-- Tracked from **0–6**
-- Shared by the entire crew
+- Tracked **0–6**
 
 #### Spend Flow to:
 - Activate **Flow abilities**
 - Trigger **Flow State**
 
-> Flow cannot be spent for generic +1d bonuses
-
 ---
 
 ## Core Loop
 
-1. Perform actions in fiction
-2. Gain **Edge** through risk and playstyle
-3. Choose to:
-   - Spend Edge (personal benefit)
-   - Convert Edge → Flow (team benefit)
-4. Spend Flow on powerful effects or Flow State
+1. Take risks → gain Edge  
+2. Spend Edge (personal benefit) or convert to Flow  
+3. Spend Flow for powerful team effects  
+4. Gain XP through crew behaviour  
 
 ---
 
-## Generating Edge
+## Edge Generation
 
-### Universal Triggers (available to all)
-
-Gain **1 Edge** when you:
-
-- **Push the Risk**: take a riskier approach than necessary
-- **Act Decisively**: act quickly under uncertainty
-- **Exploit the Moment**: immediately follow up on an opening
+### Universal
+Gain 1 Edge when you:
+- Take a greater risk than necessary
+- Act quickly under uncertainty
+- Follow up on an opportunity immediately
 
 ---
 
 ### Playstyle Triggers
+Each playstyle provides reliable ways to generate Edge.
 
-Each playstyle has specific triggers that generate Edge more reliably.
-
-These follow:
+All triggers follow:
 **Risk + Identity + Immediate Action**
-
-(See playbook sections for full lists)
 
 ---
 
-### Desperation Rule (Universal)
+### Crew Triggers
+Crew types provide additional Edge generation based on group behaviour.
+
+- Trigger **once per scene unless the situation escalates**
+
+---
+
+### Desperation Rule
 
 When you:
-- Act with **no advantage**
-- Have **no support**
-- Face **high consequence**
+- Act with no advantage
+- Have no support
+- Face high consequence
 
 Gain **1 Edge before the roll**
 
 ---
 
-### Per-Playstyle Desperation
-
-Each playstyle includes a stronger thematic desperation trigger.
-
----
-
 ### Constraints
-
-- **Max 1 Edge gained per action**
-- Must **change the situation** or create meaningful impact
+- Max **1 Edge per action**
+- Must **change the situation**
 - No Edge from:
   - Planning
   - Waiting
-  - Safe/repeatable actions
+  - Safe actions
 
 ---
 
 ## Converting Edge to Flow
 
-After an action:
-
-- You may convert **1 Edge → +1 Flow**
-- Only if the action **clearly benefits the team**
-- The player must **describe how it helps others**
-
-This is optional and intentional.
+- Convert **1 Edge → +1 Flow**
+- Must benefit the team
+- Player describes how it helps others
 
 ---
 
 ## Flow State
 
-When Flow reaches **6**:
+At **6 Flow**:
 
-### Trigger Flow State
 - Spend all Flow (reset to 0)
 
-### Effects (for one scene or several rolls):
-- **Assist is free**
-- **+1d to coordinated/team actions only**
-- **Flow abilities become available**
+### Effects (one scene or several actions):
+- Assist is free
+- +1d on team actions
+- Unlock Flow abilities
 
 ---
 
-## Flow Abilities
+## Crew Types
 
-- Purchased by players
-- Cost: **2–5 Flow**
-- Must have:
-  - Clear trigger
-  - Concrete mechanical effect
-- Typically:
-  - Enable allies
-  - Remove constraints
-  - Reshape the situation
+Each crew defines how they take risks and gain Edge as a group.
 
-Flow abilities are:
-- Powerful
-- Situational
-- Not spammable
+### Rules
+- Crew Edge triggers: **once per scene unless escalation**
+- XP triggers require **real danger or consequence**
 
 ---
 
-## System Guarantees
+### Rogues
+**Edge:**  
+Gain 1 Edge when entering or moving deeper into restricted or hostile areas  
 
-- Players can always generate Edge through risk
-- System never stalls (desperation rule)
-- Encourages:
-  - Fast decisions
-  - Team play
-  - Specialisation
+**XP:**  
+Gain XP when stealing, sabotaging, or extracting under danger or opposition  
+
+---
+
+### Rebels
+**Edge:**  
+Gain 1 Edge when openly defying authority or escalating against a stronger force  
+
+**XP:**  
+Gain XP when undermining or damaging powerful groups despite consequences  
+
+---
+
+### Scavengers
+**Edge:**  
+Gain 1 Edge when entering or remaining in hazardous environments  
+
+**XP:**  
+Gain XP when extracting value from dangerous or degrading locations  
+
+---
+
+### Hunters
+**Edge:**  
+Gain 1 Edge when closing distance or committing to confrontation  
+
+**XP:**  
+Gain XP when taking down targets under pressure  
+
+---
+
+### Operators
+**Edge:**  
+Gain 1 Edge when continuing after a plan breaks down  
+
+**XP:**  
+Gain XP when completing objectives despite complications  
+
+---
+
+### Smugglers
+**Edge:**  
+Gain 1 Edge when transporting through danger or pursuit  
+
+**XP:**  
+Gain XP when delivering despite interception or risk  

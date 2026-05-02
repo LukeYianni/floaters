@@ -1,39 +1,36 @@
 # Rejected Ideas
 
 ## Stress as Core Resource
-- Removed due to:
-  - Bookkeeping overhead
-  - Punishment-focused design
-  - Reliance on downtime recovery
+- Too punitive
+- Requires downtime recovery
+- Adds bookkeeping
 
 ---
 
 ## Flow as Generic Bonus Pool
-- Spending Flow for +1d was rejected
-- Caused:
-  - Shared pool friction
-  - Constant minor spending
-  - Loss of identity vs Edge
+- Created shared resource friction
+- Encouraged constant minor spending
 
 ---
 
 ## Edge as Conversion-Only Resource
-- Initially only used to generate Flow
-- Rejected because:
-  - Felt like bookkeeping
-  - Lacked player-facing value
+- Felt like bookkeeping
+- Lacked player agency
 
 ---
 
 ## Failure Generates Resources Directly
-- Rejected due to:
-  - Incentivising intentional failure
-  - Creating perverse gameplay loops
+- Encouraged intentional failure
+- Created perverse incentives
 
 ---
 
 ## Fully Locked Playbooks
-- Strict class-based abilities rejected
-- Replaced with:
-  - Open, purchasable abilities
-  - Fictional gating instead of hard restrictions
+- Reduced flexibility
+- Replaced with open ability system
+
+---
+
+## Momentum as Separate Resource
+- Overlapped with Flow and Edge
+- Increased complexity without adding depth
