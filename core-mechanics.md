@@ -6,6 +6,28 @@ related: [glossary.md, design-principles.md]
 
 # Core Mechanics
 
+## Design Origins
+
+The Edge/Flow system replaced a stress system. Stress provided a resource for teamwork and exceeding normal bounds, but it encouraged caution, required downtime recovery, and didn't support forward momentum.
+
+The replacement started from two ideas:
+1. A shared pool of dice players could draw from and replenish — **Flow**
+2. Players creating openings for each other — **Edge**
+
+Early generation logic:
+- When your actions create an opportunity or weakness, you create Edge
+- Edge can theoretically be used by yourself, but is likely passed to another character
+- If the other player immediately uses that Edge, it generates Flow
+- If the player does not use Edge immediately, they can use it until the fiction changes
+
+Early spend logic:
+- Flow is used by the team for team-wide actions
+- Edge is a temporary boost (+1d or effect)
+
+Character choices affect this by giving each character unique ways to generate and spend these resources, based on their playstyle and bonds.
+
+---
+
 ## Resources
 
 ### Edge (Personal)
