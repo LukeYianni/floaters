@@ -61,7 +61,33 @@ Playstyle triggers follow the formula: **Risk + Identity + Immediate Action**.
 
 ## Domain
 
-A character's area of expertise or knowledge. Status: not yet fully integrated into mechanics. See `open-questions.md`.
+A thematic category of perks representing a character's area of expertise (e.g. Assassination, Ballistics, Leadership, Salvage). Each Domain contains perks at multiple Tiers. A character chooses one Domain as their **Specialism**. See `mechanics/perks.md`.
+
+---
+
+## Perk
+
+A named character ability belonging to a Domain. Each perk has:
+- A **Tier** (Starter, 1, 2, or 3) indicating advancement cost.
+- A **Characteristic** (Deft, Guile, or Grit) indicating which stat it keys off.
+- A **Description** — the mechanical effect.
+
+See `mechanics/perks.md` for the full list.
+
+---
+
+## Specialism
+
+A character's chosen Domain, selected at character creation. Grants a unique starting ability and a set of starting equipment. A character is defined partly by their Specialism. Open question: whether characters can purchase perks outside their Specialism.
+
+---
+
+## Characteristic
+
+One of three attributes used to categorise perks and rolls:
+- **Deft** — precision, speed, finesse.
+- **Guile** — cunning, knowledge, deception.
+- **Grit** — toughness, resolve, endurance.
 
 ---
 

@@ -18,6 +18,7 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `core-mechanics.md` | The current decided rules: Edge, Flow, Flow State, Crew Types, core loop. |
 | `open-questions.md` | Unresolved design decisions. Treat these as prompts for exploration, not settled rules. |
 | `rejected-ideas.md` | Ideas that were tried and discarded, with reasons. Never re-propose these without acknowledging why they were rejected. |
+| `mechanics/perks.md` | The Perks system: Domains, Specialisms, and the full perk list by Domain and Tier. Status: draft. |
 
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
