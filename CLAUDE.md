@@ -19,6 +19,9 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `open-questions.md` | Unresolved design decisions. Treat these as prompts for exploration, not settled rules. |
 | `rejected-ideas.md` | Ideas that were tried and discarded, with reasons. Never re-propose these without acknowledging why they were rejected. |
 | `mechanics/perks.md` | The Perks system: Domains, Specialisms, and the full perk list by Domain and Tier. Status: draft. |
+| `mechanics/weapons.md` | All weapons with stats (Damage, Ammo, Load, Range, Tags, Modifications, Weapon Moves). Status: draft. |
+| `mechanics/weapon-moves.md` | Special actions tied to specific weapons. Status: draft. |
+| `mechanics/weapon-tags.md` | Passive weapon properties and their mechanical effects. Status: draft. |
 
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
