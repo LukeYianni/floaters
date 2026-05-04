@@ -1,3 +1,9 @@
+---
+status: decided
+tags: [principles, design]
+related: [core-mechanics.md]
+---
+
 # Design Principles
 
 ## Core Fantasy

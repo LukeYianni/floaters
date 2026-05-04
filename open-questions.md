@@ -1,3 +1,9 @@
+---
+status: open
+tags: [open-questions, design]
+related: [core-mechanics.md, glossary.md]
+---
+
 # Open Questions
 
 ## Naming

@@ -1,3 +1,9 @@
+---
+status: decided
+tags: [mechanics, edge, flow, crew]
+related: [glossary.md, design-principles.md]
+---
+
 # Core Mechanics
 
 ## Resources
