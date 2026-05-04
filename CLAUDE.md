@@ -22,6 +22,7 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `mechanics/weapons.md` | All weapons with stats (Damage, Ammo, Load, Range, Tags, Modifications, Weapon Moves). Status: draft. |
 | `mechanics/weapon-moves.md` | Special actions tied to specific weapons. Status: draft. |
 | `mechanics/weapon-tags.md` | Passive weapon properties and their mechanical effects. Status: draft. |
+| `mechanics/downtime.md` | Downtime actions, effect scale, antagonist pacing, and downtime activities. Status: draft. |
 
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
