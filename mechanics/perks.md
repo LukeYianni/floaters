@@ -39,7 +39,7 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 | Specialism | Starting Ability | Starting Items |
 |---|---|---|
 | **Biomechanics** | Stabiliser — You can heal team members mid-battle. The injury still persists but the negative modifier is from the tier below. | Implant and field surgeon kit |
-| **Enduring** | You ignore the first instance of melee damage in a fight. It does not cost you stress to get in the way of an attack made against an ally next to you. | Armour and a melee weapon (with mod, TBD) |
+| **Enduring** | You ignore the first instance of melee damage in a fight. You can get in the way of an attack made against an ally next to you. | Armour and a melee weapon (with mod, TBD) |
 | **Explosives** | *(not yet defined)* | Demolitionist tools and grenades |
 | **Hacking** | *(not yet defined)* | Hacking tools and EMP |
 | **Killing** | When you succeed in using a weapon, choose 3 options from the weapon abilities list (5 on a crit). | A weapon with some mods |
@@ -133,7 +133,7 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 ### Endurance
 
 **Get Behind me** — Tier 1, Grit
-- You can take 1 stress to take a hit for an ally.
+- You can take a hit for an ally.
 
 **Tank** — Tier 1, Grit
 - You have an extra minor wound slot.
@@ -146,7 +146,7 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 - *(Note: "Tank 2" is a placeholder name.)*
 
 **Fuelled by blood** — Tier 3, Grit
-- When you take an injury, you clear stress equal to the tier of the injury.
+- When you take an injury, gain 1 Edge.
 
 ---
 
@@ -159,14 +159,17 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 **Cut the crap** — Tier 1, Grit
 - You are immune to the effects of an ally's ticks.
 
-**Effective Assistance** — Tier 1, Deft
-- When you assist an ally, you can take 2 stress to give them both +1d and increased effect instead.
+**On Me** — Tier 1, Deft
+- When you assist an ally, you can choose to take the full consequence yourself — your ally takes none.
+
+**All In** — Tier 2, Deft
+- When you assist an ally, you can spend 1 Edge to upgrade to +1d and increased effect.
 
 **Good listener** — Tier 1
 - Push yourself to use another character's home or background.
 
 **Got your back** — Tier 1, Guile
-- When you assist an ally, it costs them only 1 stress to push themselves instead of two.
+- When you assist an ally who then pushes themselves, you both gain 1 Flow.
 
 **Shared intel** — Tier 1, Guile
 - When you gather intelligence, hold 1 forward for when someone acts on that intel.
@@ -175,13 +178,13 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 - +1 to fortune rolls.
 
 **Helping hand** — Tier 2, Grit
-- When an ally resists, you can take up to half of the resulting stress in their place.
+- When an ally resists a consequence, you can spend 1 Edge to take up to half the consequence in their place.
 
 **Inspirational** — Tier 2, Grit
-- As a downtime action, you can console and motivate your team. Roll Grit and distribute that many points among teammates to clear strain.
+- As a downtime action, roll Grit. On a success, the crew starts the next scene with +2 Flow.
 
 **Inspiring Criticals** — Tier 2, Deft
-- Once per session when you critically succeed, all allies who can see you clear a stress.
+- When you critically succeed, all allies who can see you gain 1 Flow.
 
 **Lead from the front** — Tier 2, Grit
 - When you take a wound, the next ally who acts gets +1d.
@@ -213,7 +216,7 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 - When you fail an attack with a melee weapon, the next ally acting against your target gets +1d.
 
 **Parry** — Tier 2, Deft
-- When using your weapon to resist the stress caused by a melee attack, you can use your Kill skill.
+- When resisting a melee consequence, you can use Fight instead of the default action.
 
 **Weighted Strike** — Tier 2, Grit
 - You can mark 1 wear for +1 roll to an attack with a melee weapon.
@@ -248,7 +251,7 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 - *(Design note: under review — may be too passive/plain as written.)*
 
 **Follow my lead** — Tier 2, Grit
-- When you lead an action to move to a location, you take at most 1 stress.
+- When you lead a group movement action, you treat any consequences as one tier lower.
 
 **Quantum Superpo-what now?** — Tier 3, Deft
 - You have mastered how to appear to be in two places at once. You can act simultaneously from two different positions near each other, given neither place is being observed at that point in time.

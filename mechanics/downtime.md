@@ -1,7 +1,7 @@
 ---
 status: draft
 tags: [mechanics, downtime, antagonists, clocks]
-related: [core-mechanics.md, glossary.md]
+related: [mechanics/rolling.md, core-mechanics.md]
 ---
 
 # Downtime
@@ -12,31 +12,30 @@ You can take as many downtime actions as you want. Every time you take a downtim
 
 ---
 
-## Effect Scale
+## How to Take a Downtime Action
 
-Downtime actions use a standard roll result table:
+1. Choose a downtime activity.
+2. Roll an appropriate action (see `rolling.md`).
+3. Apply ticks to the relevant clock based on your result.
 
-| Roll | Ticks |
-|------|-------|
-| 1–3  | 1 tick |
-| 4–5  | 2 ticks |
-| 6    | 3 ticks |
-| Crit | 5 ticks |
+---
 
-By default, downtime actions have **limited effect** — everything shifts one level back:
+## Effect and Ticks
 
-| Roll | Ticks (limited effect) |
-|------|------------------------|
-| 1–3  | 0 ticks |
-| 4–5  | 1 tick |
-| 6    | 2 ticks |
-| Crit | 3 ticks |
+By default, downtime actions have **limited effect**. Ticks per result:
+
+| Roll | Standard effect | Limited effect |
+|------|-----------------|----------------|
+| 1–3  | 1 tick          | 0 ticks |
+| 4–5  | 2 ticks         | 1 tick |
+| 6    | 3 ticks         | 2 ticks |
+| Crit | 5 ticks         | 3 ticks |
 
 ---
 
 ## Increasing Effect
 
-You can upgrade from limited to standard effect by bringing additional resources:
+Bring additional resources to upgrade from limited to standard effect:
 
 - **Tool** — mark wear on the tool
 - **Crew member** — use crew dice for that character
