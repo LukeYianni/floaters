@@ -37,3 +37,10 @@ related: [core-mechanics.md, glossary.md]
   - Or only gate abilities and triggers?
 
 (Currently deferred)
+
+---
+
+## Doctor / Medic Playstyle
+- A player wanting to play a doctor has no dedicated perks or progression path.
+- The Medkit tool was removed (healing is downtime-only; Stims cover in-mission wound suppression).
+- Needs revisiting when playstyles and perks are more developed.
