@@ -39,15 +39,15 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 | Specialism | Starting Ability | Starting Items |
 |---|---|---|
 | **Biomechanics** | Stabiliser — You can heal team members mid-battle. The injury still persists but the negative modifier is from the tier below. | Implant and field surgeon kit |
-| **Enduring** | You ignore the first instance of melee damage in a fight. You can get in the way of an attack made against an ally next to you. | Armour and a melee weapon (with mod, TBD) |
-| **Explosives** | *(not yet defined)* | Demolitionist tools and grenades |
-| **Hacking** | *(not yet defined)* | Hacking tools and EMP |
+| **Enduring** | When you take a hit meant for an ally, you take the full consequence. That ally gains 1 Edge. | Armour and a melee weapon (with mod, TBD) |
+| **Explosives** | When you use an explosive and it significantly changes the situation, you gain 1 Edge. | Demolitionist tools and grenades |
+| **Hacking** | When you access or override a system, you can ask the GM one question about what it knows or controls. The first ally to act on your answer gains 1 Edge. | Hacking tools and EMP |
 | **Killing** | When you succeed in using a weapon, choose 3 options from the weapon abilities list (5 on a crit). | A weapon with some mods |
-| **Mech Controller** | You have the natural ability to pick up the controls of any mech you connect to. | A mech |
-| **Movement** | *(not yet defined)* | Mag-boots, a short-burst jetpack, and a stabiliser harness |
-| **Salvager** | Once per session you can change a negative tag on a piece of loot to a positive one. | Salvaging tools and a basic carrying drone |
-| **Stealth** | *(not yet defined)* | Lockpicks and infrared goggles |
-| **Tracker** | When travelling to a place you've previously visited, you can identify the shortest, most direct path. Any rolls led by you required to get there have +1d. | Multispectrum visor, environmental scanner, and a set of tag darts |
+| **Mech Controller** | When your drone creates an opening or reveals something an ally immediately acts on, that ally gains 1 Edge. Only Mech Controllers can operate drones. See `mechanics/drones.md`. | A drone |
+| **Movement** | *(parked — fantasy not yet defined. Existing perks may be redistributed to other domains.)* | Mag-boots, a short-burst jetpack, and a stabiliser harness |
+| **Salvager** | Mark wear on a person to remove a negative trait on their item mid-scenario. That person gains 1 Edge. | Salvaging tools and a basic carrying drone |
+| **Infiltrator** | When you remove or bypass an obstacle before it becomes a problem for the crew, an ally gains 1 Edge. | Lockpicks and infrared goggles |
+| **Investigator** | When you enter a new location or encounter a new situation, you can ask the GM one question. The first ally to act on your answer gains 1 Edge. | Multispectrum visor, environmental scanner, and a set of tag darts |
 
 > Open question (Killing specialism): Should you always choose one extra option on any hit, with crits granting even more?
 
@@ -259,9 +259,6 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 ---
 
 ### Salvage
-
-**It's a feature!** — Tier Starter, Guile
-- You can mark wear on a person to remove a negative trait on their item during a scenario.
 
 **Fast Cutdown** — Tier 1, Deft
 - Mark wear to your tools to disassemble a large item into small usable parts quickly.

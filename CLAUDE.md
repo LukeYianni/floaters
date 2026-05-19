@@ -25,6 +25,7 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `mechanics/weapon-tags.md` | Passive weapon properties and their mechanical effects. Status: draft. |
 | `mechanics/downtime.md` | Downtime actions, effect scale, antagonist pacing, and downtime activities. Status: draft. |
 | `mechanics/equipment.md` | Equipment system: carrying capacity tiers, consumable stacking rules, armor. Status: draft. |
+| `mechanics/drones.md` | Drone subsystem: deployment, acting through drones, wear, item card format. Status: draft. |
 
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
