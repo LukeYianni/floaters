@@ -59,6 +59,16 @@ See individual subsystem files for how effect interacts with specific mechanics 
 
 ---
 
+## Creating Advantages
+
+A character can act to improve the position or effect of a teammate's follow-up action. The GM responds to the fictional change — not to a declared intent to "set up" a combo.
+
+- If the action meaningfully changes the situation, the GM shifts the follow-up roll to **controlled** position or grants **great** effect.
+- If the action does not change the fiction, no shift occurs.
+- Creating an advantage is subject to the same roll and consequences as any other action.
+
+---
+
 ## Resistance
 
 When you suffer a consequence, you can attempt to resist it. Spend 1 Edge and roll a relevant action.

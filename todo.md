@@ -12,9 +12,9 @@ A comprehensive list of what needs to exist for Floaters to be playable as an on
 ## Blocking — the game cannot run without these
 
 - [x] **Wound system** — wound tiers (Critical / Major / Minor), dice penalties per tier, wound slots, recovery
-- [ ] **Clock and tick system** — what a clock is, how many ticks fill one, types of clocks, what happens when one fills
-- [ ] **Conditions** — full list of conditions, how each works mechanically (Pinned is already referenced)
-- [ ] **Character creation procedure** — step-by-step process for making a character
+- [x] **Clock and tick system** — what a clock is, how many ticks fill one, types of clocks, what happens when one fills
+- [x] **Conditions** — resolved; no named conditions list. GM adjudicates advantage creation via position/effect shift. Documented in `mechanics/rolling.md`.
+- [x] **Character creation procedure** — step-by-step process for making a character
 
 ---
 

@@ -40,6 +40,15 @@ related: [core-mechanics.md, glossary.md]
 
 ---
 
+## Individual XP Drives
+
+- What format do personal XP drives take? (free-form, chosen from a list, derived from Specialism?)
+- How many drives does a character have?
+- What counts as a valid drive — must it require danger or consequence, like crew XP triggers?
+- How does individual XP interact with crew XP — can both trigger in the same scene?
+
+---
+
 ## Doctor / Medic Playstyle
 - A player wanting to play a doctor has no dedicated perks or progression path.
 - The Medkit tool was removed (healing is downtime-only; Stims cover in-mission wound suppression).
