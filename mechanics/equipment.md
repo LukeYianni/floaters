@@ -27,7 +27,7 @@ Each consumable occupies one slot and has a **stack size** — the number of use
 
 | Consumable | Load | Stack | Effect |
 |---|---|---|---|
-| Stim | 1 | 3 | Ignore one wound's dice penalty for the scene. |
+| Medical Kit | 1 | 3 | Suppress one wound's penalty for the rest of the day. Does not remove the wound. |
 | Smoke Grenade | 1 | 2 | Obscures an area. Creates cover and concealment. |
 | Charge | 1 | 2 | Breaching explosive. Destroys locks, doors, structural weak points. |
 | EMP | 1 | 2 | Disables electronics in range. |

@@ -24,12 +24,12 @@ You can take as many downtime actions as you want. Every time you take a downtim
 
 By default, downtime actions have **limited effect**. Ticks per result:
 
-| Roll | Standard effect | Limited effect |
-|------|-----------------|----------------|
-| 1–3  | 1 tick          | 0 ticks |
-| 4–5  | 2 ticks         | 1 tick |
-| 6    | 3 ticks         | 2 ticks |
-| Crit | 5 ticks         | 3 ticks |
+| Roll | Limited | Standard | Great |
+|------|---------|----------|-------|
+| 1–3  | 0 | 1 | 2 |
+| 4–5  | 1 | 2 | 3 |
+| 6    | 2 | 3 | 5 |
+| Crit | 3 | 5 | 7 |
 
 ---
 
@@ -48,6 +48,13 @@ Bring additional resources to upgrade from limited to standard effect:
 ### Healing
 
 Recover from injuries. Roll and apply ticks to your healing clock.
+
+Each character has a personal **healing clock** with 4 segments. When the clock fills:
+- All wounds shift down one tier (Critical → Major, Major → Minor)
+- Minor wounds clear
+- Reset the clock to 0 and begin again if wounds remain
+
+A character with only Minor wounds recovers in one completion. A Critical wound requires three.
 
 ### Repairing
 
