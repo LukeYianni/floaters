@@ -24,7 +24,21 @@ A comprehensive list of what needs to exist for Floaters to be playable as an on
 - [ ] **Ship system** — ship stats, rooms, damage, upgrades
 - [ ] **Mission and scenario structure** — how a session starts, escalates, and ends in an open format
 - [ ] **GM tools** — running antagonists, setting position and effect, managing clocks between sessions, pacing
+- [ ] **GM moves list** — a structured set of soft and hard moves the GM makes in response to rolls and fiction. Stonetop's move list is a useful reference. Prevents GM improvisation from being arbitrary.
+- [ ] **Threat framing** — a structured format for writing up antagonists: type, impulse, escalating consequences (grim portents), and a terminal outcome (impending doom). Gives antagonists a life beyond individual scenes and makes their pressure feel inevitable. Stonetop's Threats chapter (p.277) is the direct reference.
+- [ ] **NPC creation procedure** — a lightweight GM tool for making NPCs quickly: name, concept, instinct, connections, and stats only if needed. Stonetop's NPC chapter (p.453) is the reference. Followers are covered; this is for NPCs who aren't followers.
+- [ ] **Finds and intel system** — a structured way to introduce rare tech, artifacts, and valuable information through play. How finds are identified, what unlocking them requires, how they change over time. Stonetop's Arcana and Discoveries systems (p.421–447) are the reference.
+- [ ] **Location/site design** — a framework for creating interesting operational locations: what makes a site distinctive, how to represent it mechanically, how to run it at the table. Stonetop's Sites chapter (p.345) is the reference.
+- [ ] **Campaign and season structure** — how the game progresses across multiple sessions and seasons. How threats escalate over time, how the crew's situation changes, how to bring a season to a satisfying close. Stonetop's "The Game Ongoing" chapter (p.571) is the reference.
+- [ ] **Love letters** — a tool for starting a new season or catching up players who missed sessions. A short piece of fiction addressed to a character, describing what happened to them off-screen and ending with a roll that shapes how they enter the new situation. Stonetop's Writing Moves & Love Letters chapter (p.549) is the reference.
 - [ ] **Setting overview** — world context, factions, enough for a GM to improvise from
+
+---
+
+## Follower system extensions
+
+- [ ] **Group followers** — rules for followers with the *group* tag: shared resilience pool, individual members standing out over time, directing the group as a whole vs. directing individuals. Deliberately omitted from the initial draft; add once the base system has been tested. See `design-log/followers.md` for why it was deferred.
+- [ ] **Follower advancement** — can followers grow? Can tags change, instincts shift, resilience increase? Stonetop handles this via between-session review. Needs a deliberate decision for Floaters.
 
 ---
 
