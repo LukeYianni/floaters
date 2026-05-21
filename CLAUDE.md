@@ -24,6 +24,7 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `mechanics/weapon-moves.md` | Special actions tied to specific weapons. Status: draft. |
 | `mechanics/weapon-tags.md` | Passive weapon properties and their mechanical effects. Status: draft. |
 | `mechanics/downtime.md` | Downtime actions, effect scale, antagonist pacing, and downtime activities. Status: draft. |
+| `mechanics/followers.md` | Follower system: card format, tags, resilience track, instinct, cost, Loyalty, follower moves, Edge interaction. Status: draft. |
 | `mechanics/equipment.md` | Equipment system: carrying capacity tiers, consumable stacking rules, armor. Status: draft. |
 | `mechanics/drones.md` | Drone subsystem: deployment, acting through drones, wear, item card format. Status: draft. |
 
@@ -74,12 +75,25 @@ Do not treat `open` content as decided. Do not re-open `decided` content without
 
 ---
 
+## Design Log
+
+The `/design-log` directory contains one file per subsystem, recording what was considered, what was decided, and why. These files capture the reasoning behind decisions — not just the rules themselves.
+
+**Before working on any subsystem, check whether a design log file exists for it.** If it does, read it before proposing changes or additions. This prevents re-opening settled questions and re-treading ground that has already been covered.
+
+| File | Subsystem |
+|---|---|
+| `design-log/followers.md` | Follower system: tag structure, resilience track, Edge interaction, Loyalty |
+
+---
+
 ## How to Answer Questions
 
 1. Read `glossary.md` to anchor definitions.
 2. Read `design-principles.md` to apply the design constraints.
 3. Read relevant `decided` files for authoritative rules.
 4. Check `rejected-ideas.md` before proposing anything — don't re-propose rejected mechanics.
-5. Flag any open questions your answer touches on.
+5. Check `/design-log` for any prior reasoning on the subsystem in question.
+6. Flag any open questions your answer touches on.
 
 When generating new rules, present them in the same format as `core-mechanics.md`: named sections, short declarative sentences, bullet lists for triggers and effects.
