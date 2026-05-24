@@ -138,4 +138,4 @@ A second feed — not a camera, but a live audio channel — carries intermitten
 *GM moves:*
 - When players review the footage, they can see themselves on camera from earlier in the night — the Bears knew exactly where they were and when.
 - When players use the comms setup to monitor the rave above, they hear Orel asking where the crew went.
-- When players pull the Union audio, they hear something that suggests the Workers' Union knows more about the Bears' operation than they should.
+- When players pull the Union audio, they hear Union leadership explicitly discussing how the Bears' destabilisation of the station serves their campaign against MAPO. They're not just aware of the Bears — they're relying on them. This is leverage over both the Union and the Bears, and it makes the foreign worker riots clock political rather than spontaneous.

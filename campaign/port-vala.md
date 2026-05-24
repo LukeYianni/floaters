@@ -28,7 +28,8 @@ The tension: Mars controls this place from a distance, and that distance is exac
 
 **Martian Worker's Union**
 - *Want:* Weaken MAPO's hold on the Engineering Department and expand their influence.
-- *Move:* When they see a chance to embarrass the administration, take it regardless of collateral.
+- *Move:* When they see a chance to embarrass the administration, take it regardless of collateral. When the Bears arrangement is threatened, warn them quietly rather than act openly.
+- *Note:* The Union has a quiet arrangement with the Bears. The Bears' operation generates instability and resentment that the Union points to as evidence MAPO can't keep order. The Union gets leverage; the Bears get left alone by the one faction that could expose them to the workforce. Neither side trusts the other. Both find it useful. The Bears listen in on Union meetings regardless — that's just how the Bear operates.
 
 **The Bears**
 - *Want:* Keep the operation running. Keep Mars off their back. Keep the Cult supplied.
@@ -129,7 +130,7 @@ A cleaner who was siphoning from the Bears' drug shipments. The Bear found out a
 Answer these before running Port Vala:
 
 - Who else in the administration knows about the Bears? Is MAPO complicit or just negligent?
-- Does the Bear have any relationship with the Worker's Union, or are they entirely separate problems?
+- ~~Does the Bear have any relationship with the Worker's Union?~~ *Resolved: quiet arrangement — mutual benefit, neither trust.*
 - What caused the fire that gutted the Burnt Market? Was it an accident?
 - Is there anyone on the station the crew could recruit as an ally — someone who knew Alexei, or who has their own reasons to want the Bears gone?
 - How long has Igor been running his network on Port Vala, and how many people know what he is?
