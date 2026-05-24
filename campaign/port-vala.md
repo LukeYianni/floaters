@@ -88,13 +88,22 @@ Clean, well-lit, the smell of recycled air and quiet bureaucracy. Separated from
 *Background:* Grew up on Mars, indoctrinated like everyone else, moved to Port Vala and spent years watching the volume of food and wealth flowing into very few hands. That's what turned him. He now connects people to rebel contacts, manipulates transfer documents, and makes numbers add up in ways that aren't quite honest. Alexei was his informant. Alexei's death didn't just cost him an asset — it told him that whoever killed Alexei knows someone was listening. He hired the crew because he couldn't act through official channels without exposing everything.
 
 ### The Bear
-*Concept:* Gang leader who treats every problem as something to be quietly dissolved.
+*Concept:* The real leader of the Bears — invisible by design. Nobody in the rave knows what he looks like.
 
-*Want:* For the operation to keep running invisibly. For Port Vala to remain exactly as it is.
+*Want:* For the operation to keep running, and for no one to ever be certain he exists.
 
 *Instinct:* Identifies the weakest link and applies pressure there — never the strongest point.
 
-*Tell:* Never raises his voice. Gets quieter and more precise when he's angry. He had Alexei killed without touching him. He operates the same way with every problem: he makes it look like it destroyed itself.
+*Tell:* Never raises his voice. Gets quieter and more precise when he's angry. He had Alexei killed without touching him. He makes every problem look like it destroyed itself. Unremarkable in person — average height, forgettable face, nothing to grab onto. That's deliberate.
+
+### Orel *(the front man)*
+*Concept:* The Bear's public face. Large, bearded, warm — everyone in the rave assumes he runs the Bears. He plays the part willingly.
+
+*Want:* Maintain the illusion. He IS the Bear, publicly, at all times.
+
+*Instinct:* When threatened, perform harder — more warmth, more authority, more presence. The mask becomes a weapon.
+
+*Tell:* When the illusion starts cracking — when someone makes clear they know he's not really in charge — he escalates rather than drops it. More aggressive, more Bear-like. When the performance stops working entirely he has no backup behaviour. That's when he reaches for violence, or quietly finds a way to reach the real Bear. He knows the Bear would sacrifice him without hesitation. He tries not to think about that directly.
 
 ### Alexei *(dead)*
 A cleaner who was siphoning from the Bears' drug shipments. The Bear found out and spiked a batch. When Alexei took his usual cut and used it, it killed him. Ruled accidental overdose. He was also Igor's informant — watching the Bears' operation and reporting what he saw.

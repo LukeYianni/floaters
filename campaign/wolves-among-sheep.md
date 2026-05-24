@@ -118,6 +118,72 @@ The crew can walk in. The rave is a public front. Nobody stops them at the door.
 
 ---
 
+## Enemies
+
+Stat blocks for combat at the rave. See `mechanics/enemies.md` for format reference.
+
+---
+
+**THE BEAR**
+*solitary, trained, cautious, ruthless*
+
+**Resilience**: 4
+**Armor**: 1 (concealed vest)
+**Equipment**: Concealed pistol (1 damage, nearby), combat knife (1 damage, next to)
+
+**Instinct**: to never be the one holding the weapon when anyone's watching
+
+**Moves:**
+- **One clean shot**: The Bear doesn't draw until the moment is exactly right. When he fires, it's from cover or concealment, at whoever is most exposed. He doesn't miss. Deal 1 damage and the target is precisely where he wants them — between him and the exit.
+- **Exploit the wound**: When a crew member is already hurt or distracted, the Bear moves to them first. Not to finish the fight — to create the opening he needs to leave.
+- **The knife is quieter**: When he's close enough that a shot would draw attention he doesn't want, he uses the knife instead. Fast, minimal, no announcement. The target may not immediately understand what happened.
+- **Controlled exit**: When the Bear decides to go, he creates one problem on the way out — overturns something, puts a body between himself and pursuit, fires once without looking. Then he's through the door.
+- **Already gone**: When the Bear reaches an exit, he doesn't linger. By the time the crew reacts, there's nothing to chase. He's been planning his exit since they walked in.
+
+*Description:* Average height, forgettable face, nothing to grab onto. Moves like someone who's done this before and didn't enjoy it. He'll be gone before the crew fully registers what happened.
+
+---
+
+**OREL**
+*solitary, armed, brutal, organized*
+
+**Resilience**: 7
+**Armor**: 2 (size and a concealed vest)
+**Equipment**: Pistol (1 damage, nearby), his hands
+
+**Instinct**: to make the problem visible so everyone can watch him solve it
+
+**Moves:**
+- **Command the room**: When Orel raises his voice and points at someone, the moment freezes — crew and civilians alike. Anyone who acts through that moment acts at disadvantage. His people use it.
+- **The setup**: Orel telegraphs something enormous — a shout, a big swing, a step forward. It's bait. When someone reacts to it, he does something else entirely: a grab, a headbutt, a throw into the bar. The performance was never the attack.
+- **Bearlike grip**: When Orel gets hold of someone, they're his problem until someone pulls him off. While he's holding them, he can do whatever he wants to them — and they can't act freely without help.
+- **Take it**: When Orel takes a hit without going down, he smiles. He keeps moving forward. He doesn't flinch. This is part of the performance too — and it works.
+- **Make an example**: When Orel puts someone down dramatically and visibly, the crew loses their initiative. Everyone in the rave saw it. He's in charge of this room.
+
+*Description:* Exactly what the Bear is supposed to look like. Large, bearded, warm until he isn't. Fills a room. The performance is practiced enough that it's almost real — and in a fight, the performance becomes the weapon. He hits like something you didn't fully expect, because you were watching the show.
+
+---
+
+**BEARS (staff/bouncers)**
+*squad, armed, trained, organized*
+
+**Resilience**: 2
+**Armor**: 0 (dressed as staff — nothing visible)
+**Equipment**: Concealed pistols (1 damage, nearby), batons (1 damage, next to, non-lethal)
+
+**Instinct**: to protect the operation without making a scene
+
+**Moves:**
+- When Orel signals, converge on the problem efficiently and without drama — they've done this before
+- When someone gets too close to staff-only areas, redirect firmly and radio it in immediately
+- When violence breaks out in the rave, use the civilian panic as cover and confusion
+- When one of them goes down, the others tighten up rather than scatter — *organized*
+- When the crew is outnumbered, make that fact visible without saying a word
+
+*Description:* Five or six of them embedded in the crowd — on the doors, behind the bar, managing the floor. You wouldn't clock them as a gang unless you knew what to look for. They move with a quiet efficiency that's slightly wrong for hospitality work.
+
+---
+
 ## Act 2: The Hidden Station
 
 *To be developed once the crew breaks the Bears and follows the Cult connection.*

@@ -87,6 +87,20 @@ The `/design-log` directory contains one file per subsystem, recording what was 
 
 ---
 
+## Reference Materials
+
+Summaries of relevant rules from other game systems live in `/references/`. Read these before reading any source PDF — they exist to save tokens.
+
+| File | What to use it for |
+|---|---|
+| `references/stonetop/monsters-and-dangers.md` | Monster format, tags, HP, armor, damage, instinct, moves |
+
+If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
+
+Always check `/references/` before reading a source PDF.
+
+---
+
 ## How to Answer Questions
 
 1. Read `glossary.md` to anchor definitions.
@@ -94,6 +108,7 @@ The `/design-log` directory contains one file per subsystem, recording what was 
 3. Read relevant `decided` files for authoritative rules.
 4. Check `rejected-ideas.md` before proposing anything — don't re-propose rejected mechanics.
 5. Check `/design-log` for any prior reasoning on the subsystem in question.
-6. Flag any open questions your answer touches on.
+6. Check `/Users/lukeyianni/Documents/Stonetop/` if the task references Stonetop.
+7. Flag any open questions your answer touches on.
 
 When generating new rules, present them in the same format as `core-mechanics.md`: named sections, short declarative sentences, bullet lists for triggers and effects.
