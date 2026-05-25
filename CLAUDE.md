@@ -27,6 +27,9 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `mechanics/followers.md` | Follower system: card format, tags, resilience track, instinct, cost, Loyalty, follower moves, Edge interaction. Status: draft. |
 | `mechanics/equipment.md` | Equipment system: carrying capacity tiers, consumable stacking rules, armor. Status: draft. |
 | `mechanics/drones.md` | Drone subsystem: deployment, acting through drones, wear, item card format. Status: draft. |
+| `mechanics/character-creation.md` | Character creation: the three axes (What Was Home, Why Did You Leave, What Is Your New Home), action rating sources, Specialism selection. Status: draft. |
+| `mechanics/clocks.md` | Clocks and progress tracking. Status: draft. |
+| `mechanics/wounds.md` | Wound system. Status: draft. |
 
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
@@ -94,6 +97,7 @@ Summaries of relevant rules from other game systems live in `/references/`. Read
 | File | What to use it for |
 |---|---|
 | `references/stonetop/monsters-and-dangers.md` | Monster format, tags, HP, armor, damage, instinct, moves |
+| `references/stonetop/adventure-and-story-arcs.md` | How Stonetop structures campaigns, threats, grim portents, expeditions, and session zero |
 
 If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
 
@@ -110,5 +114,19 @@ Always check `/references/` before reading a source PDF.
 5. Check `/design-log` for any prior reasoning on the subsystem in question.
 6. Check `/Users/lukeyianni/Documents/Stonetop/` if the task references Stonetop.
 7. Flag any open questions your answer touches on.
+
+**Topic-to-file shortcuts** — read the relevant file immediately when these topics come up, without waiting to be asked:
+
+| Topic | Read first |
+|---|---|
+| Character creation, session zero, backstory, action ratings, Specialisms | `mechanics/character-creation.md` |
+| Arc structure, campaign design, story hooks, faction pressure, adventure design | `references/stonetop/adventure-and-story-arcs.md` |
+| Clocks, progress tracking, countdowns | `mechanics/clocks.md` |
+| Wounds, injury, harm, debilities | `mechanics/wounds.md` |
+| Rolling, actions, position, effect | `mechanics/rolling.md` |
+| Perks, Domains, abilities, advancement | `mechanics/perks.md` |
+| Followers, NPCs, loyalty | `mechanics/followers.md` |
+| Downtime, between-session activities | `mechanics/downtime.md` |
+| Weapons, gear, equipment, load | `mechanics/weapons.md`, `mechanics/equipment.md` |
 
 When generating new rules, present them in the same format as `core-mechanics.md`: named sections, short declarative sentences, bullet lists for triggers and effects.
