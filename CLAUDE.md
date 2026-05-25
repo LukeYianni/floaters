@@ -31,6 +31,17 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `mechanics/clocks.md` | Clocks and progress tracking. Status: draft. |
 | `mechanics/wounds.md` | Wound system. Status: draft. |
 
+| `setting/history.md` | The Fall / The Wipe: how Earth was destroyed and how the solar system adapted. |
+| `setting/politics.md` | Inter-faction tensions: Mars vs Venus, Floaters, the Moon as neutral ground, the Black Echo. |
+| `setting/planets/mars.md` | Mars: authoritarian state, subterranean cities, breakaway communities, the state apparatus. |
+| `setting/planets/venus.md` | Venus: floating city-states, the Skyfaring League, Gasrunners, culture and governance. |
+| `setting/planets/moon.md` | The Moon: contract economy, fulfillment indices, clan structure, data sanctuaries. |
+| `setting/planets/floaters.md` | Floaters as a people: spinners, zero-G communities, nomadic groups, reputation. |
+| `setting/factions/ash-network.md` | The Ash Network: Martian rebel confederation, internal factions, tactics, legendary figures. |
+| `setting/factions/sapphire-reign.md` | The Sapphire Reign: Venusian floating opera-city, the Conductors' Triumvirate, culture. |
+| `setting/factions/black-echo.md` | The Black Echo: solar-system-wide anti-AI paramilitary, Oblivion Gate, Echoes. |
+| `setting/factions/breakers-of-the-word.md` | The Breakers of the Word: lunar anti-contract revolutionaries, the Void, underground networks. |
+
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
 - `/characters` — playstyles, abilities, advancement
@@ -128,5 +139,11 @@ Always check `/references/` before reading a source PDF.
 | Followers, NPCs, loyalty | `mechanics/followers.md` |
 | Downtime, between-session activities | `mechanics/downtime.md` |
 | Weapons, gear, equipment, load | `mechanics/weapons.md`, `mechanics/equipment.md` |
+| Mars, Martian state, Red Order, Ash Network, rebels | `setting/planets/mars.md`, `setting/factions/ash-network.md` |
+| Venus, floating cities, Sapphire Reign, Gasrunners | `setting/planets/venus.md`, `setting/factions/sapphire-reign.md` |
+| Moon, lunar economy, contracts, Breakers | `setting/planets/moon.md`, `setting/factions/breakers-of-the-word.md` |
+| Floaters, spinners, zero-G communities | `setting/planets/floaters.md` |
+| Black Echo, AI, the Wipe, the Fall | `setting/factions/black-echo.md`, `setting/history.md` |
+| Factions, politics, inter-planetary tensions | `setting/politics.md` |
 
 When generating new rules, present them in the same format as `core-mechanics.md`: named sections, short declarative sentences, bullet lists for triggers and effects.
