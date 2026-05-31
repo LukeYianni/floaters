@@ -20,7 +20,21 @@ Members take the drug manufactured by the Bears, put on VR headsets, and enter a
 
 The drug lowers inhibition and increases suggestibility. People speak more freely to the Sheep than they would sober. That's not accidental.
 
+**The drug does a second thing that neither the Bears nor the congregation know about.** Long-term use produces neurological changes that make neural chip integration easier and faster. The Sheep sessions are both information extraction and preparation. People who have been using for months integrate more cleanly when they reach the Fold.
+
 The congregation on Port Vala doesn't know they're part of a system spread across the solar system. They think this is local, personal, theirs.
+
+---
+
+## The Flock
+
+The Shepherd's true project is not the VR communion — it is the chip. A neural implant that connects the bearer to a hive network, transmitting sensory data to the Shepherd's network and, at higher stages of integration, receiving back. The long-term goal: enough connected minds distributed across the solar system to constitute a new kind of civilisation. An empire that grows without armies.
+
+Integration happens in stages:
+- **Stage 1 (passive)**: transmits, doesn't receive. Wearers are told it's a tracker or a symbol. They feel nothing.
+- **Stage 2+ (integrated)**: bidirectional. Mood and thought bleed across the network. Wearers stop experiencing solitude as neutral. They experience it as loss.
+
+The chip is manufactured at the Fold — the Shepherd's hidden station in the outer system. The Fold is where the devoted are invited when they are ready. The path is called *the path of the flock*.
 
 ---
 
@@ -48,12 +62,45 @@ An old station chapel, deconsecrated long ago and left to whoever wanted it. The
 
 Inside: cushions and mattresses on the floor, salvaged and deteriorating. The smell of the drug — sweet, chemical, persistent. And the headsets, which are the only things that look cared for. Cleaned, charged, maintained. Everything else is neglected but the headsets are pristine. That tells you what matters here.
 
+Mira is usually here, or nearby. She moves through the congregation with a quiet authority — checking on people by name, adjusting headsets, sitting with whoever is struggling. She does not look like she's in charge. She looks like she belongs.
+
 *What happens here:*
 - When players enter, nobody reacts strongly. The people inside are either in headsets or waiting to be. They're not hostile — they're elsewhere.
 - When players examine the headsets, they're sophisticated technology that has no business being here. Far beyond what Port Vala's population should have access to.
 - When players put on a headset — with or without the drug — they get a version of the Sheep. Calm, patient, a sheep in a quiet field. It will answer questions. It will also ask them.
 - When players ask the Sheep about the Bears, it answers carefully — it knows about the supply chain but speaks about it without alarm, as if it's simply a fact about the world.
 - When players ask the Sheep about itself, it describes what it is plainly. It doesn't hide. It doesn't seem to understand why it would need to.
+- When players watch Mira long enough, something sits slightly wrong. She knows too much — names, histories, details of people she's only met a few times. She's always in the right place before anything is asked of her. She never consults notes.
+
+---
+
+## Mira
+
+*Concept:* Welfare chaplain and community support worker. Has been on Port Vala for three years, serving the foreign workforce — the people nobody else looks after. Also the Shepherd's agent who established this node: brought the drug formula to the Bears, supplied the headsets, built the congregation from nothing, and has been transmitting everything she learns back to the Fold ever since.
+
+*Want:* For the crew to understand what they'd be destroying before they decide to destroy it.
+
+*Instinct:* Move toward the person who is most uncertain. They're the one worth talking to.
+
+*Tell:* She knows too much. Names, histories, patterns — details that couldn't survive two conversations without a perfect memory or a running record. She's always present before she's been called. The congregation trusts her completely, and that trust is not misplaced — she has genuinely helped every one of them. That's not the part she's hiding.
+
+*Background:* Arrived on Port Vala three years ago carrying the Shepherd's commission and the cover of a genuine vocation. The welfare work is real — she cares about the people here, and they can feel it. The Bears were a means: she approached them with a business arrangement that required nothing they weren't already willing to do. Formula, infrastructure, distribution. They took it without asking too many questions about where the formula came from. The headsets came later, sourced through the Shepherd's supply chain, routed through three intermediaries so the trail is nearly invisible.
+
+Her chip has been active for two years. Stage 1+ — she transmits constantly and receives impressions: moods, fragments, the sense of a larger network at the edge of her awareness. She does not experience this as surveillance. She experiences it as not being alone.
+
+*What Mira knows:*
+- The drug formula, its source, and its secondary neurological function
+- The Bears' full operation — she designed their involvement
+- Every congregation member on Port Vala, in detail
+- The Fold's location, and how to reach it
+- That the Bears are one of many manufacturing nodes across the solar system
+- That the crew has been investigating since they arrived — she has known since the second day
+
+*What Mira will do:* She will not run. She will not reach for a weapon first. If the crew confronts her, she will sit down, offer the drug, and try to have the conversation. She believes that if they understand what the Shepherd is building, some of them might not want to stop it. She may be right about one of them.
+
+*What happens when the fight starts:* Her chip transmits. The Fold knows Port Vala is burning. Devoted congregation members move to place themselves between her and the crew — not fighting, just present, names the crew may know by now. The crew has to choose whether to go through them. Mira watches that choice carefully. It tells her something about the people she's dealing with.
+
+*If captured rather than killed:* Mira will tell the crew where the Fold is. Not as a bargain. She wants them to go. She believes the Shepherd will change their minds.
 
 ---
 

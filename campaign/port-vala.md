@@ -106,6 +106,28 @@ Clean, well-lit, the smell of recycled air and quiet bureaucracy. Separated from
 
 *Tell:* When the illusion starts cracking — when someone makes clear they know he's not really in charge — he escalates rather than drops it. More aggressive, more Bear-like. When the performance stops working entirely he has no backup behaviour. That's when he reaches for violence, or quietly finds a way to reach the real Bear. He knows the Bear would sacrifice him without hesitation. He tries not to think about that directly.
 
+### Mira
+*Concept:* Welfare chaplain running community support for Port Vala's foreign workforce. Has been on the station for three years. Knows everyone in the poorer parts of the station. Also the Shepherd's agent who established the cult node here — but the crew won't know that until Act 1's second beat. Full detail in `campaign/cult-of-the-shepherd.md`.
+
+*Want:* To understand who the crew are and what they'll do before deciding how to handle them.
+
+*Instinct:* Move toward whoever is uncertain. That's the one worth talking to.
+
+*Tell:* She knows too much. Details of people she's met briefly, patterns she couldn't have seen without sustained attention. She asks more questions than she needs to. It reads as genuine curiosity — and some of it is.
+
+---
+
+### Paz
+*Concept:* The Bears' drug runner for the cult. Congregation member. Addict. Coerced into killing Alexei and given his job as the price of their survival. Full encounter detail in `campaign/wolves-among-sheep.md`.
+
+*Want:* To get through each day without stopping long enough to feel it.
+
+*Instinct:* Comply with whoever has power. Keep moving.
+
+*Tell:* Goes completely still when frightened — like staying small might help. Answers questions fast and completely; hesitating feels more dangerous than talking.
+
+---
+
 ### Alexei *(dead)*
 A cleaner who was siphoning from the Bears' drug shipments. The Bear found out and spiked a batch. When Alexei took his usual cut and used it, it killed him. Ruled accidental overdose. He was also Igor's informant — watching the Bears' operation and reporting what he saw.
 

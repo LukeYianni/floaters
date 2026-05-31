@@ -101,7 +101,15 @@ Locked. Shelving units with product, a cash box, a weapons rack with two shotgun
 
 **A separate batch, differently labeled** — smaller, marked with a single red line. This is the spiked batch. The same formulation that killed Alexei. It's evidence of murder, sitting in a locked room.
 
-**A physical ledger** — financial records in simple code. If decoded (not difficult with time), it shows payments to two MAPO administrators above Igor. The Bears have reach into the administration that Igor doesn't know about.
+**A physical ledger** — financial records and correspondence in simple code. If decoded (not difficult with time), it contains four distinct things:
+
+*MAPO payments.* Transfers to two administrators above Igor, regular and long-running. The Bears have reach into the administration Igor doesn't know about. This is what Igor needs to move.
+
+*Mira's correspondence.* A series of messages between the Bear and a contact identified only as M, going back three years. M provided the drug formula and the headsets. M gave instructions on how the supply should be structured, who should receive it, what congregation members were ready to be moved further along. The Bear followed those instructions without fully understanding them. The correspondence makes clear that M has been directing the operation from the start — the Bears are labour, not leadership.
+
+*The network map.* A list of codes that, cross-referenced with the docking manifests in the same ledger, resolve into locations: six other stations and communities across the solar system, each with their own manufacturing arrangement, their own congregation, their own version of what's happening on Port Vala. The Bears are one node. The crew is looking at the skeleton of something much larger.
+
+*The source routing.* The headset supply chain, three intermediaries deep. Following it takes work, but it eventually terminates at a docking registry that matches no official station — the same destination as the Cult shipment manifest, if the crew has that too.
 
 *GM moves:*
 - When players take the Cult shipment, the courier comes looking for it within the hour.
