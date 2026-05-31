@@ -118,6 +118,7 @@ Summaries of relevant rules from other game systems live in `/references/`. Read
 | `references/stonetop/adventure-and-story-arcs.md` | How Stonetop structures campaigns, threats, grim portents, expeditions, and session zero |
 | `references/stonetop/npcs-and-followers.md` | NPC creation, portrayal, follower stats, Loyalty, group followers, Persuade mechanics |
 | `references/stonetop/encounters-and-sites.md` | Site creation, encounter design, discoveries, hazards, GM moves, the core loop |
+| `references/stonetop/advancement-and-xp.md` | How XP is earned (6- triggers, end of session, playbook triggers), the XP scale, leveling up, Burn Brightly |
 
 If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
 
@@ -147,6 +148,7 @@ Always check `/references/` before reading a source PDF.
 | Wounds, injury, harm, debilities | `mechanics/wounds.md` |
 | Rolling, actions, position, effect | `mechanics/rolling.md` |
 | Perks, Domains, abilities, advancement | `mechanics/perks.md` |
+| Stonetop XP, leveling, end of session, Burn Brightly | `references/stonetop/advancement-and-xp.md` |
 | Followers, NPCs, loyalty | `mechanics/followers.md` |
 | Downtime, between-session activities | `mechanics/downtime.md` |
 | Weapons, gear, equipment, load | `mechanics/weapons.md`, `mechanics/equipment.md` |
