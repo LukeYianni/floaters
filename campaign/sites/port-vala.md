@@ -1,7 +1,10 @@
 ---
 status: draft
-tags: [campaign, location]
-related: [campaign/wolves-among-sheep.md]
+tags: [site, act-1]
+arc: arcs/wolves-among-sheep.md
+threat: threats/the-bears.md
+npcs: npcs/port-vala.md
+sites-within: [sites/the-rave.md, sites/the-church.md]
 ---
 
 # Port Vala

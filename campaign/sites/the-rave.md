@@ -1,7 +1,10 @@
 ---
 status: draft
-tags: [campaign, location]
-related: [campaign/port-vala.md, campaign/wolves-among-sheep.md]
+tags: [site, act-1]
+arc: arcs/wolves-among-sheep.md
+threat: threats/the-bears.md
+npcs: npcs/port-vala.md
+parent-site: sites/port-vala.md
 ---
 
 # The Rave

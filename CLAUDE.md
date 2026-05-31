@@ -42,6 +42,13 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `setting/factions/black-echo.md` | The Black Echo: solar-system-wide anti-AI paramilitary, Oblivion Gate, Echoes. |
 | `setting/factions/breakers-of-the-word.md` | The Breakers of the Word: lunar anti-contract revolutionaries, the Void, underground networks. |
 
+| `campaign/gm-reference.md` | Campaign file conventions and directory structure. Read before adding any campaign content. |
+| `campaign/arcs/` | One file per campaign arc: situation, background, pivots, timeline, GM moves. |
+| `campaign/threats/` | One file per active threat: instinct, grim portents, clock. Read here to understand what's applying pressure. |
+| `campaign/sites/` | One file per location: layout, encounters, GM moves, discoveries. |
+| `campaign/npcs/` | NPC profiles and stat blocks grouped by location. |
+| `campaign/factions/` | Background on organisations: how they work, not their threat clock. |
+
 As the system grows, files will be organized into subdirectories:
 - `/mechanics` — individual subsystem files
 - `/characters` — playstyles, abilities, advancement
@@ -109,6 +116,8 @@ Summaries of relevant rules from other game systems live in `/references/`. Read
 |---|---|
 | `references/stonetop/monsters-and-dangers.md` | Monster format, tags, HP, armor, damage, instinct, moves |
 | `references/stonetop/adventure-and-story-arcs.md` | How Stonetop structures campaigns, threats, grim portents, expeditions, and session zero |
+| `references/stonetop/npcs-and-followers.md` | NPC creation, portrayal, follower stats, Loyalty, group followers, Persuade mechanics |
+| `references/stonetop/encounters-and-sites.md` | Site creation, encounter design, discoveries, hazards, GM moves, the core loop |
 
 If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
 
@@ -132,6 +141,8 @@ Always check `/references/` before reading a source PDF.
 |---|---|
 | Character creation, session zero, backstory, action ratings, Specialisms | `mechanics/character-creation.md` |
 | Arc structure, campaign design, story hooks, faction pressure, adventure design | `references/stonetop/adventure-and-story-arcs.md` |
+| Encounter design, site design, locations, hazards, discoveries | `references/stonetop/encounters-and-sites.md` |
+| NPC design, NPC portrayal, follower creation, Loyalty | `references/stonetop/npcs-and-followers.md` |
 | Clocks, progress tracking, countdowns | `mechanics/clocks.md` |
 | Wounds, injury, harm, debilities | `mechanics/wounds.md` |
 | Rolling, actions, position, effect | `mechanics/rolling.md` |
