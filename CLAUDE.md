@@ -28,6 +28,7 @@ Your job when working with this repo is to help design, refine, and extend the s
 | `mechanics/equipment.md` | Equipment system: carrying capacity tiers, consumable stacking rules, armor. Status: draft. |
 | `mechanics/drones.md` | Drone subsystem: deployment, acting through drones, wear, item card format. Status: draft. |
 | `mechanics/character-creation.md` | Character creation: the three axes (What Was Home, Why Did You Leave, What Is Your New Home), action rating sources, Specialism selection. Status: draft. |
+| `mechanics/advancement.md` | XP sources (failure, end-of-session, Specialism triggers), perk costs, action rating upgrade costs. Status: draft. |
 | `mechanics/clocks.md` | Clocks and progress tracking. Status: draft. |
 | `mechanics/wounds.md` | Wound system. Status: draft. |
 
@@ -148,6 +149,7 @@ Always check `/references/` before reading a source PDF.
 | Wounds, injury, harm, debilities | `mechanics/wounds.md` |
 | Rolling, actions, position, effect | `mechanics/rolling.md` |
 | Perks, Domains, abilities, advancement | `mechanics/perks.md` |
+| XP, advancement, perk costs, action rating upgrades, end of session | `mechanics/advancement.md` |
 | Stonetop XP, leveling, end of session, Burn Brightly | `references/stonetop/advancement-and-xp.md` |
 | Followers, NPCs, loyalty | `mechanics/followers.md` |
 | Downtime, between-session activities | `mechanics/downtime.md` |
