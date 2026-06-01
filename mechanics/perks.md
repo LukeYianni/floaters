@@ -38,9 +38,9 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 
 | Specialism | Starting Ability | Starting Items |
 |---|---|---|
-| **Biomechanics** | Stabiliser — You can heal team members mid-battle. The injury still persists but the negative modifier is from the tier below. | Implant and field surgeon kit |
+| **Biomechanics** | Stabiliser — When you treat an ally's wound, mark a use on your field kit. Their wound's mechanical penalty is removed. The injury persists in fiction — the slot remains occupied and further harm compounds. (Any character can treat wounds in downtime; the Biomechanics starting ability allows this immediately, under fire.) | Implant and field surgeon kit |
 | **Enduring** | When you take a hit meant for an ally, you take the full consequence. That ally gains 1 Edge. | Armour and a melee weapon (with mod, TBD) |
-| **Explosives** | When you use an explosive and it significantly changes the situation, you gain 1 Edge. | Demolitionist tools and grenades |
+| **Explosives** | When you use an explosive, say what changes about the situation. The GM confirms or adjusts. The first ally to act on that change gains 1 Edge. | Demolitionist tools and grenades |
 | **Hacking** | When you access or override a system, you can ask the GM one question about what it knows or controls. The first ally to act on your answer gains 1 Edge. | Hacking tools and EMP |
 | **Killing** | When you succeed in using a weapon, choose 3 options from the weapon abilities list (5 on a crit). | A weapon with some mods |
 | **Mech Controller** | When your drone creates an opening or reveals something an ally immediately acts on, that ally gains 1 Edge. Only Mech Controllers can operate drones. See `mechanics/drones.md`. | A drone |
@@ -54,6 +54,12 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 ---
 
 ## Perk List
+
+### Explosives
+
+*(No perk tree designed yet. Designer is stuck on the direction — return to this once the starting ability has been playtested and the battlefield-reshaping fantasy is clearer.)*
+
+---
 
 ### Assassination
 
@@ -132,9 +138,6 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 
 ### Endurance
 
-**Get Behind me** — Tier 1, Grit
-- You can take a hit for an ally.
-
 **Tank** — Tier 1, Grit
 - You have an extra minor wound slot.
 
@@ -145,7 +148,7 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 - You have an extra major wound slot.
 - *(Note: "Tank 2" is a placeholder name.)*
 
-**Fuelled by blood** — Tier 3, Grit
+**Fuelled by blood** — Tier 2, Grit
 - When you take an injury, gain 1 Edge.
 
 ---

@@ -42,3 +42,38 @@ The more fundamental fix is making the perks themselves worth wanting, not makin
 ### Reference
 
 See `references/stonetop/playbooks.md` for the full analysis of how Stonetop handles this distinction across all nine playbooks.
+
+---
+
+## Biomechanics Perks — Design Direction
+
+### The minigame framing
+
+Biomechanics (and Mech Control) are intentionally structurally different from other Specialisms. The player builds a personal constellation of augmentations over time — closer to D&D 5e Eldritch Invocations than to a standard perk list. The combination feels personal; the minigame is in the accumulation and the choices made.
+
+### What needs rewriting
+
+The current Robotic Leg and Robotic Arm perks offer pick-one-from-a-list options, but the options are passive fictional facts ("the leg is supernaturally strong") rather than triggered moves. This means they don't fire in play — they're character creation decisions dressed as perks.
+
+### The rewrite direction
+
+Keep the modular pick-from-a-list structure. Keep the body modification framing — these are part of the character, not items. But rewrite every option as a **triggered move or specific fictional permission with mechanical teeth**.
+
+Examples of the pattern:
+- "Supernaturally strong leg" → *When you kick something or someone, treat it as a heavy weapon.*
+- "Fingers sharp to a blade point" → a named move that fires when attacking unarmed.
+- "Shock on touch" → *When you grab hold of someone and discharge, they are stunned and cannot act until they break free.*
+
+Every augmentation option should add something the player can **do**, not just something that is **true** about their character. The fingerprint mimicry option on Robotic Arm is the closest to this already — it creates specific fictional opportunities and is worth keeping as a reference point.
+
+The higher-tier perks (Neural Link, Mental Malware, Neural DDoS) follow naturally from this: they are augmentations that escalate in power and weirdness, pushing further from human. That arc should be legible across the full Biomechanics perk list.
+
+---
+
+## Enduring Perks — Design Gaps
+
+### No Tier 3 capstone
+Fuelled by Blood was moved to Tier 2, leaving no Tier 3 perk for Enduring. The capstone should answer: what does the Enduring character look like at their absolute peak? Directions to consider: genuine unkillability, terrifying presence that makes enemies hesitate, or a big crew-feeding moment.
+
+### No crew-feeding perks beyond the starting ability
+Tank, Tank 2, Experienced Recovery, and Fuelled by Blood all benefit only the Enduring player. The design principles require individual excellence to feed crew success. At least one perk — likely the Tier 3 capstone — should create crew momentum or opportunity, not just personal durability.

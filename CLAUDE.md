@@ -125,6 +125,7 @@ Summaries of relevant rules from other game systems live in `/references/`. Read
 | `references/stonetop/advancement-and-xp.md` | How XP is earned (6- triggers, end of session, playbook triggers), the XP scale, leveling up, Burn Brightly |
 | `references/stonetop/threats.md` | Threat types (all 8), full move lists per type, writing/updating threats, distance trackers, grim portents |
 | `references/stonetop/playbooks.md` | All 9 playbooks: hard gates vs. soft advantages, move structure pattern, cross-playbook moves, Instinct lists per playbook |
+| `references/stonetop/information-gathering-moves.md` | All Seek Insight / Know Things variants: core moves, all 9 playbook extensions, design patterns |
 
 If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
 
