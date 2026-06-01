@@ -24,6 +24,12 @@ Mechanics files:
 - `mechanics/downtime.md`
 - `mechanics/equipment.md`
 - `mechanics/drones.md`
+- `mechanics/followers.md`
+- `mechanics/character-creation.md`
+- `mechanics/advancement.md`
+- `mechanics/clocks.md`
+- `mechanics/wounds.md`
+- `mechanics/enemies.md`
 
 If any new files exist in `mechanics/` beyond this list, read those too.
 

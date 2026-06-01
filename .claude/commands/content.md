@@ -21,6 +21,8 @@ Before asking anything, silently read:
 - Drone → `mechanics/drones.md`
 - Crew type or playstyle → `core-mechanics.md`
 - Downtime activity → `mechanics/downtime.md`
+- Follower → `mechanics/followers.md`
+- Enemy or threat → `mechanics/enemies.md`
 
 If unsure which file applies, read `core-mechanics.md` as a fallback.
 
@@ -77,6 +79,22 @@ For a **drone:**
 - Does it need modifications beyond the default profile?
 - Is this a variant for a specific Specialism, or a general-purpose drone?
 
+For a **follower:**
+- What is their fictional identity — who are they, what do they do?
+- What tags do they carry? Check `mechanics/followers.md` for the existing tag list before inventing new ones.
+- What is their Resilience track (number of boxes)?
+- What is their Instinct — the thing they will do if not directed?
+- What is their Cost — what do they need to stay loyal?
+- Do they have a Loyalty rating, and under what conditions does it rise or fall?
+- Do they have any follower moves? Check `mechanics/followers.md` for existing moves first.
+
+For an **enemy:**
+- What is their fictional identity — who or what are they?
+- What is their Instinct — the drive that makes them dangerous?
+- What tags do they carry? Check `mechanics/enemies.md` for the existing tag list.
+- Damage, HP, and armor if applicable.
+- Do they have any special moves?
+
 Throughout interrogation, be blunt. If a proposed stat or ability violates a design principle, name the principle. If it creates bookkeeping beyond Edge/Flow, flag it explicitly.
 
 ---
@@ -115,6 +133,10 @@ Gain XP when [accomplishment] under [condition]
 **Equipment or consumable** — add a row to the correct table in `mechanics/equipment.md`.
 
 **Drone** — if this is a named drone variant, add it to `mechanics/drones.md` as a new section after the item card format.
+
+**Follower** — add to `mechanics/followers.md` in the correct section, matching the card format established in that file.
+
+**Enemy** — add to `mechanics/enemies.md` under the correct category heading, matching the format of existing entries.
 
 **Rules for writing:**
 - Match the format of surrounding entries exactly — no prose, no extra explanation
