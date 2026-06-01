@@ -41,19 +41,50 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 | **Biomechanics** | Stabiliser — When you treat an ally's wound, mark a use on your field kit. Their wound's mechanical penalty is removed. The injury persists in fiction — the slot remains occupied and further harm compounds. (Any character can treat wounds in downtime; the Biomechanics starting ability allows this immediately, under fire.) | Implant and field surgeon kit |
 | **Enduring** | When you take a hit meant for an ally, you take the full consequence. That ally gains 1 Edge. | Armour and a melee weapon (with mod, TBD) |
 | **Explosives** | When you use an explosive, say what changes about the situation. The GM confirms or adjusts. The first ally to act on that change gains 1 Edge. | Demolitionist tools and grenades |
-| **Hacking** | When you access or override a system, you can ask the GM one question about what it knows or controls. The first ally to act on your answer gains 1 Edge. | Hacking tools and EMP |
+| **Hacking** | When you access a system, ask the GM one question from the list below. The first ally to act on your answer gains 1 Edge. Questions: What does this system control or connect to? / Who has access, and at what level? / What has this system recorded that someone wants hidden? / What's the fastest way to make this system do something it shouldn't? / What is this network protecting? | Hacking tools and EMP |
 | **Killing** | When you succeed in using a weapon, choose 3 options from the weapon abilities list (5 on a crit). | A weapon with some mods |
-| **Mech Controller** | When your drone creates an opening or reveals something an ally immediately acts on, that ally gains 1 Edge. Only Mech Controllers can operate drones. See `mechanics/drones.md`. | A drone |
+| **Mech Controller** | When your drone acts, say what it creates or reveals. The GM confirms or adjusts. The first ally to act on that gains 1 Edge. Only Mech Controllers can operate drones. See `mechanics/drones.md`. | A drone |
 | **Movement** | *(parked — fantasy not yet defined. Existing perks may be redistributed to other domains.)* | Mag-boots, a short-burst jetpack, and a stabiliser harness |
-| **Salvager** | Mark wear on a person to remove a negative trait on their item mid-scenario. That person gains 1 Edge. | Salvaging tools and a basic carrying drone |
-| **Infiltrator** | When you remove or bypass an obstacle before it becomes a problem for the crew, an ally gains 1 Edge. | Lockpicks and infrared goggles |
-| **Investigator** | When you enter a new location or encounter a new situation, you can ask the GM one question. The first ally to act on your answer gains 1 Edge. | Multispectrum visor, environmental scanner, and a set of tag darts |
+| **Salvager** | When you enter a new location, say one thing here that the crew can use. The GM confirms or adjusts. The first ally to use it gains 1 Edge. | Salvaging tools and a basic carrying drone |
+| **Infiltrator** | When you deal with a threat before the crew encounters it, choose an ally. They gain 1 Edge when they act on the opening you created. | Lockpicks and infrared goggles |
+| **Investigator** | When you enter a new location or encounter a new situation, ask the GM one question from the list below. The first ally to act on your answer gains 1 Edge. Questions: What happened here, and when? / Who or what has been through here recently? / What is someone trying to hide? / What here is useful or dangerous to the crew? / Who is really in control of this situation? / What is about to happen? | Multispectrum visor, environmental scanner, and a set of tag darts |
 
-> Open question (Killing specialism): Should you always choose one extra option on any hit, with crits granting even more?
+> **Blocker**: The Killing starting ability cannot be properly evaluated until the weapon abilities list exists. Before returning to this Specialism: (1) design the weapon options system and establish the baseline number of options any character gets on a hit, (2) then determine how many extra options Killing grants. The open question — should Killing always choose one extra option, with crits granting more — is the right starting point for that design.
 
 ---
 
 ## Perk List
+
+### Investigator
+
+*(No perk tree designed yet. Should extend the starting ability chassis: more questions per access, free questions on 6-, specialised question lists for specific contexts — people, crime scenes, faction politics. See Hacking domain for a parallel structure to follow.)*
+
+---
+
+### Hacking
+
+**No Trace**
+When you access a system covertly, you can always ask "What is this system recording or monitoring?" for free, even on a miss. On a miss, the GM can still use "you left a trace" as a consequence — but you always know it happened.
+
+**Backdoor**
+When you access a system, you can plant a backdoor instead of asking a question. Note it. When you or an ally later needs something from that system — information, access, a remote action — spend the backdoor: it happens, no roll required.
+
+**Deep Packet** — Guile
+When you access a system and get a strong result, you can ask one question outside the standard list. The GM must answer honestly.
+
+**Understand the Model**
+When you access an AI-managed system, you can always ask "What would cause this system to act against its operators?" for free. When you exploit that flaw, the crew's first action against the system or its operators automatically succeeds.
+
+**Remote Access**
+When you've previously accessed a system, you can trigger one action through it from a distance without being physically present. Roll. On a hit, it executes cleanly. On a miss, it executes — but something alerts, logs, or draws attention.
+
+**Full Takeover**
+When you access a major system — a ship's controls, a building's security, a district's infrastructure — you can seize operational control rather than asking questions. Roll. On a hit, the system does what you direct for the rest of the scene. The GM will tell you what it costs or draws.
+
+**Generative Generator**
+You can undertake a downtime project to build a custom AI with a specified purpose. When operational, it can answer questions in its domain without a roll, and works autonomously on its purpose during downtime. The GM will tell you what problems it creates.
+
+---
 
 ### Explosives
 
@@ -61,10 +92,10 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 
 ---
 
-### Assassination
+### Covert
 
 **Ambusher** — Tier 1, Deft
-- +1d to attacks against a target who is unaware of you.
+- When you attack a target who is unaware of you, your strike creates an opening. Choose one: they are stunned and cannot act until they recover; you or an ally can immediately act against them without consequence; or they are silently neutralised before anyone notices.
 
 **Anything sharp** — Tier 2, Grit
 - You can pick up any small item and use it as a standard weapon with damage 1.
@@ -104,35 +135,37 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 ### Biomechanics
 
 **Robotic Leg** — Tier 1, Grit
-- You can replace a leg with an electronic equivalent. When created, choose one:
-  - That leg is supernaturally strong.
-  - The leg has a small jet that can propel you short distances.
-  - The leg is hollow and can store up to 1 load inside it (counts as hidden).
+You replace one leg with an electronic equivalent. Choose one augmentation. You can rebuy this perk to add another option.
+- **Piston kick**: When you kick something or someone, it deals Damage 2, Knock Back. *(Note: damage value and tags need review once weapon actions are fully defined.)*
+- **Micro-thruster**: You can reach any open point in the scene above you or across a gap. You don't fall.
+- **Hidden compartment**: Your leg holds up to 1 load. Items stored here are undetectable by standard searches.
 
 **Robotic Arm** — Tier 1, Grit
-- You can replace an arm with an electronic equivalent. When created, choose one:
-  - That arm is supernaturally strong.
-  - The fingers are sharp to a blade point.
-  - Your arm can emit a shock on touch.
-  - Your fingerprints can mimic someone else's.
+You replace one arm with an electronic equivalent. Choose one augmentation. You can rebuy this perk to add another option.
+- **Crushing grip**: When you grab someone, they move where you move them and cannot act freely. Allies attacking them get +1d while you hold them. They need a significant action or outside help to break free.
+- **Blade fingers**: Your fingers end in retractable blades. When you strike unarmed with this arm, it deals Damage 1, Sneaky — and it cannot be disarmed or taken from you. *(Note: damage value and tags need review once weapon actions are fully defined.)*
+- **Shock discharge**: When you grab someone and discharge, they cannot act until they physically break free or the scene changes. *(Open: stun needs a formal mechanical definition.)*
+- **Fingerprint mimic**: Your fingertip sensors can record and replicate any fingerprint. When you've touched something belonging to a target, you can pass biometric scanners as them.
 
 **Photographic Eyes** — Tier 1, Deft
-- You can take photos with your eyes, saved to a small memory device inside your head. In addition you can augment your lenses to look great distances with clarity.
+Your eyes are augmented cameras. When you photograph something significant, you capture it perfectly — no detail lost, timestamp logged. When you review an image in detail, ask the GM one question: *What detail am I only noticing now? / What does this image prove happened? / Who else was here that I didn't see?*
+
+Your lenses also have optical zoom — you can read text or identify faces at distances that would defeat the naked eye.
+
+**EM Eyes** — Tier 2, Deft
+When you activate your EM vision in a new space, ask the GM one question: *What heat signatures or life signs are present but not visible? / What electrical systems or signals is this space running? / What reading here shouldn't exist?* You see through smoke, darkness, and most visual countermeasures.
 
 **Neural Link** — Tier 2, Guile
-- You can communicate via thought to other members using the same connected neural link.
+You and any crew members with the same implant communicate silently at any range. When you coordinate via neural link before an ally acts, they roll with +1d on that action.
 
 **Mental Malware** — Tier 3, Grit
-- You have modified your neural implants to network-attack a connected link. You can attempt to override the neural implants in an enemy's brain, controlling their action for a brief period of time while they try to wrest control back from you.
+When you attempt to seize control of one person's neural implants, roll. On a hit, choose one: they perform one action of your choosing; they freeze for the rest of the scene; they reveal information they wouldn't voluntarily share. This lasts until they sever the link or the scene changes. They know you're in their head.
 
 **Neural DDoS** — Tier 3, Guile
-- You can push yourself and mark wear to your neural link to try to overwhelm a nearby neural link. This can incapacitate at the least and cause a brain haemorrhage at the worst.
+Push yourself and mark wear to your neural link. On a hit, choose one: every affected target nearby is disoriented — the crew can act against them without consequence until they reboot; the most dangerous linked target is fully incapacitated until they reboot; all nearby implants go offline until rebooted, allies included. Blunt instrument with blowback risk.
 
 **Subdermal Plating** — Tier 3, Grit
-- You have learnt how to implant a thin metal mesh under the skin. You get two extra armour usages.
-
-**EM eyes** — Tier 3, Deft
-- You can modify a character's eyes to see another part of the physical light spectrum.
+A mesh of thin metal sits beneath your skin. It has 2 armor uses. When you would take a wound, mark an armor use instead. When both are spent, the plating is crumpled — it provides no protection until repaired.
 
 ---
 
@@ -150,6 +183,9 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 
 **Fuelled by blood** — Tier 2, Grit
 - When you take an injury, gain 1 Edge.
+
+**Draw Fire** — Tier 3, Grit
+- When you put yourself between the crew and a threat — charging in, holding position, making yourself the most dangerous problem in the room — say how. The GM tells you what focuses on you. While you hold that attention, allies acting against that threat don't face direct retaliation. Every consequence comes to you.
 
 ---
 
@@ -203,10 +239,10 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 - You can destroy a nearby relevant object or one load of carried gear to repair wear on a mech. (Roll repair as usual.)
 
 **Hive Mind** — Tier 3, Guile
-- You can control a swarm of tiny insectoid-like mechs.
+- You can control a swarm of tiny insectoid-like mechs. The swarm acts as a single entity for all mechanical purposes — one action, one wear track — but can cover ground and access spaces no single drone could reach.
 
-**Split focus** — Tier 3, Deft
-- You can control two mechs at once.
+**Split Focus** — Tier 3, Deft
+- You can control two fully independent mechs simultaneously, each with their own modifications and wear track. Both can act in a scene, but you can only actively direct one at a time.
 
 ---
 
@@ -263,6 +299,9 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 
 ### Salvage
 
+**Field Repair** — Tier 1, Guile
+- Mark wear on an item to remove one of its negative traits for the rest of the scenario.
+
 **Fast Cutdown** — Tier 1, Deft
 - Mark wear to your tools to disassemble a large item into small usable parts quickly.
 
@@ -296,9 +335,6 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 ### Unassigned
 
 These perks have no Domain set in Notion and need to be categorised.
-
-**Data scrounger** — Tier 1, Deft
-- You leave no trace when you gather intelligence by accessing an electronic system not owned by you, and get to ask one extra question to the GM.
 
 **Side Hustle** — Tier 1, Guile
 - When resting in a public space, you gain some cash.

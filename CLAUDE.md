@@ -126,6 +126,7 @@ Summaries of relevant rules from other game systems live in `/references/`. Read
 | `references/stonetop/threats.md` | Threat types (all 8), full move lists per type, writing/updating threats, distance trackers, grim portents |
 | `references/stonetop/playbooks.md` | All 9 playbooks: hard gates vs. soft advantages, move structure pattern, cross-playbook moves, Instinct lists per playbook |
 | `references/stonetop/information-gathering-moves.md` | All Seek Insight / Know Things variants: core moves, all 9 playbook extensions, design patterns |
+| `references/stonetop/weapons-and-gear.md` | Gear terms & tags, range tags, ammo rules, common weapons, weapons of war, armor, damage/armor resolution |
 
 If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
 
@@ -161,7 +162,7 @@ Always check `/references/` before reading a source PDF.
 | Stonetop playbooks, move structure, hard gates vs. soft advantages, cross-playbook moves | `references/stonetop/playbooks.md` |
 | Followers, NPCs, loyalty | `mechanics/followers.md` |
 | Downtime, between-session activities | `mechanics/downtime.md` |
-| Weapons, gear, equipment, load | `mechanics/weapons.md`, `mechanics/equipment.md` |
+| Weapons, gear, equipment, load | `mechanics/weapons.md`, `mechanics/equipment.md`, `references/stonetop/weapons-and-gear.md` |
 | Mars, Martian state, Red Order, Ash Network, rebels | `setting/planets/mars.md`, `setting/factions/ash-network.md` |
 | Venus, floating cities, Sapphire Reign, Gasrunners | `setting/planets/venus.md`, `setting/factions/sapphire-reign.md` |
 | Moon, lunar economy, contracts, Breakers | `setting/planets/moon.md`, `setting/factions/breakers-of-the-word.md` |
