@@ -108,6 +108,7 @@ The `/design-log` directory contains one file per subsystem, recording what was 
 | `design-log/followers.md` | Follower system: tag structure, resilience track, Edge interaction, Loyalty |
 | `design-log/character-creation.md` | Instinct: why it lives in Step 1, what makes a good Instinct, the FREEDOM principle |
 | `design-log/advancement.md` | XP sources: why Specialism triggers were cut, two-source model rationale |
+| `design-log/perks.md` | Specialism identity: hard gates vs. named moves, why the perk list needs Stonetop-style fictional triggers |
 
 ---
 
@@ -123,6 +124,7 @@ Summaries of relevant rules from other game systems live in `/references/`. Read
 | `references/stonetop/encounters-and-sites.md` | Site creation, encounter design, discoveries, hazards, GM moves, the core loop |
 | `references/stonetop/advancement-and-xp.md` | How XP is earned (6- triggers, end of session, playbook triggers), the XP scale, leveling up, Burn Brightly |
 | `references/stonetop/threats.md` | Threat types (all 8), full move lists per type, writing/updating threats, distance trackers, grim portents |
+| `references/stonetop/playbooks.md` | All 9 playbooks: hard gates vs. soft advantages, move structure pattern, cross-playbook moves, Instinct lists per playbook |
 
 If a relevant section hasn't been summarised yet and you need to read the source, the Stonetop PDFs are at `/Users/lukeyianni/Documents/Stonetop/`. Read only the pages needed and add a summary to `/references/stonetop/` afterwards so it doesn't need to be re-read.
 
@@ -155,6 +157,7 @@ Always check `/references/` before reading a source PDF.
 | XP, advancement, perk costs, action rating upgrades, end of session | `mechanics/advancement.md` |
 | Stonetop XP, leveling, end of session, Burn Brightly | `references/stonetop/advancement-and-xp.md` |
 | Stonetop threats, grim portents, impending doom, threat types, threat moves | `references/stonetop/threats.md` |
+| Stonetop playbooks, move structure, hard gates vs. soft advantages, cross-playbook moves | `references/stonetop/playbooks.md` |
 | Followers, NPCs, loyalty | `mechanics/followers.md` |
 | Downtime, between-session activities | `mechanics/downtime.md` |
 | Weapons, gear, equipment, load | `mechanics/weapons.md`, `mechanics/equipment.md` |
