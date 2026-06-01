@@ -19,6 +19,31 @@ Choose a **home** (a place) and a **background** (what you did there).
 - Assign **+1 action rating** to one action that reflects your home.
 - Assign **+1 action rating** to one action that reflects your background.
 
+### Instinct
+
+Your home and background shaped how you move through the world. Name that drive.
+
+Choose one from the list below, or write your own in the same format — a name in capitals and a line beginning *"To..."*
+
+| | |
+|---|---|
+| **AUTHORITY** | To give the order, to expect it obeyed without question. |
+| **OBLIGATION** | To honor the deal, whatever it costs you personally. |
+| **FREEDOM** | To chafe against rules, expectations, obligations. |
+| **PROTECTION** | To stand between harm and those who cannot stop it. |
+| **LOYALTY** | To keep faith with those who have kept faith with you. |
+| **SURVIVAL** | To stay alive, whatever it costs everything else. |
+| **CONSCIENCE** | To feel the weight of what you've done, to try to make it right. |
+| **PRESTIGE** | To be seen, to build a name that travels ahead of you. |
+| **SUSPICION** | To trust nothing you haven't checked with your own hands. |
+| **TRUTH** | To say the thing that needs saying, even when silence is safer. |
+| **TRICKERY** | To deceive, misdirect, outthink. |
+| **BELONGING** | To find your people and hold on to them. |
+
+Your Instinct feeds the end-of-session XP question: *"Did you demonstrate your Instinct, or struggle against it?"* Both count. See `mechanics/advancement.md`.
+
+### The person you'd go back for
+
 **Name one person you'd go back for.** Give them a name and a one-line description — who they are and what they mean to you. Mark them △.
 
 > *Example: Sora, my sister — she ran the refinery accounts and covered for me more than once.*

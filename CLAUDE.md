@@ -106,6 +106,7 @@ The `/design-log` directory contains one file per subsystem, recording what was 
 | File | Subsystem |
 |---|---|
 | `design-log/followers.md` | Follower system: tag structure, resilience track, Edge interaction, Loyalty |
+| `design-log/character-creation.md` | Instinct: why it lives in Step 1, what makes a good Instinct, the FREEDOM principle |
 
 ---
 

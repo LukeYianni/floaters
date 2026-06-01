@@ -1,10 +1,28 @@
 ---
 source: Stonetop Book 1
-pages: 53, 74-75, 80-81, 232, 528
+pages: 20, 53, 74-75, 80-81, 232, 528
 tags: [reference, stonetop, advancement, xp]
 ---
 
 # Stonetop — Advancement and XP
+
+## PC Instinct
+
+Every player character has an **Instinct** — a short statement describing how they tend to behave. It is chosen at character creation from a list of 5–6 pre-written options on the playbook, each written as a short infinitive phrase:
+
+> *"To maintain your dignity, to demand respect."*
+> *"To solve problems by force."*
+> *"To chafe against rules, expectations, obligations."*
+
+Instinct is not a capability. It describes a behavioral drive — a tendency the character leans into or pushes against depending on the moment.
+
+**Its sole mechanical function:** the end-of-session question *"Did you demonstrate or struggle with your instinct?"* If yes, mark XP.
+
+The "or struggle against it" is the key design choice. XP is not a reward for playing your character a specific way — it is a reward for your character's nature being present in the fiction, whether you gave in to it or fought it. Both create drama. Neither is penalised.
+
+Instinct is reviewed and optionally updated when a character levels up, reflecting how they may have changed.
+
+---
 
 ## How XP is Earned
 
