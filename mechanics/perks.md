@@ -57,7 +57,9 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 
 ### Investigator
 
-*(No perk tree designed yet. Should extend the starting ability chassis: more questions per access, free questions on 6-, specialised question lists for specific contexts — people, crime scenes, faction politics. See Hacking domain for a parallel structure to follow.)*
+*(Perk tree needs a dedicated design session. The question-list chassis from the starting ability is not enough on its own — this isn't a detective game, so more questions and better deductions don't translate into meaningful play impact.)*
+
+*(The direction: perks should convert your reading of a situation into concrete action-game advantages — preventing consequences, improving effect, preempting threats. Two candidates worth developing: **Overwatch** (survey a space before entry, hold 2, spend to pull an ally out of a consequence or call the moment for improved effect) and **The Single Point** (name the single point of failure in a situation after gathering info from two angles; crew strikes at it at one step better than rolled). The problems with other candidates: Exploit Weakness is redundant with normal fiction; Pressure Point is just Persuade; Intercept is unenforceable in play; Blind Spot removes all tension from movement by giving carte blanche.)*
 
 ---
 
@@ -343,18 +345,12 @@ These perks have no Domain set in Notion and need to be categorised.
 **I know a guy, who knows a guy** — Tier 2, Guile
 - When arriving at a new location, push yourself to choose a friend you know there.
 
-**Understand the Model** — Tier 2, Guile
-- You understand how AI systems work and can attempt to hack them.
-
 **Expert Tracker** *(no tier, no characteristic)*
 - When you're tracking a specific entity based on signs of their passage, you can roll Hunt and ask the GM that many questions from the following list:
   - What direction did they go?
   - How long ago did they pass through?
   - What were they doing in this location?
   - How many of them were here?
-
-**Generative Generator** — Tier 3, Guile
-- You can build your own AI systems. Start a long-term project; the purpose of the AI must be specified beforehand.
 
 ---
 
