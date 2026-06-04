@@ -36,10 +36,12 @@ You can add dice to your pool before rolling:
 
 | Roll | Outcome |
 |------|---------|
-| 1–3  | Failure — you don't do it, and things get worse |
+| 1–3  | Failure — the GM makes a move |
 | 4–5  | Partial success — you do it, but with a cost or compromise |
 | 6    | Full success — you do it |
 | Crit | Exceptional success — you do it with added benefit (multiple 6s) |
+
+The GM never rolls dice. Enemies and threats act through GM moves, not rolls.
 
 ---
 
@@ -66,6 +68,29 @@ A character can act to improve the position or effect of a teammate's follow-up 
 - If the action meaningfully changes the situation, the GM shifts the follow-up roll to **controlled** position or grants **great** effect.
 - If the action does not change the fiction, no shift occurs.
 - Creating an advantage is subject to the same roll and consequences as any other action.
+
+---
+
+## Defend
+
+When you **move to protect a crewmate**, roll Fight.
+
+| Roll | Outcome |
+|------|---------|
+| 4–5  | Hold 1 |
+| 6    | Hold 3 |
+| Crit | Hold 3, and generate 1 Flow |
+
+Spend holds 1-for-1 while your crewmate is threatened:
+
+- Take an incoming attack or consequence yourself instead of them
+- Halve the damage or effect of an attack against your ward
+- Draw all hostile attention to yourself — the GM must target you before anyone else
+- Strike the attacker (deal your damage, but suffer their attack in return)
+
+When you **press the attack, break away, or the threat resolves**, lose any holds you have.
+
+When your **ward acts successfully while you hold this stance**, generate 1 Flow.
 
 ---
 
