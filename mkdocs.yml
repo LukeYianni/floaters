@@ -1,0 +1,97 @@
+site_name: Floaters TTRPG
+site_description: Design knowledge base for the Floaters tabletop RPG system
+site_url: https://lukeyianni.github.io/floaters/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+
+nav:
+  - Home: README.md
+  - Core:
+    - Glossary: glossary.md
+    - Design Principles: design-principles.md
+    - Core Mechanics: core-mechanics.md
+    - Open Questions: open-questions.md
+    - Rejected Ideas: rejected-ideas.md
+  - Mechanics:
+    - Rolling: mechanics/rolling.md
+    - Character Creation: mechanics/character-creation.md
+    - Advancement: mechanics/advancement.md
+    - Perks: mechanics/perks.md
+    - Weapons: mechanics/weapons.md
+    - Weapon Tags: mechanics/weapon-tags.md
+    - Weapon Moves: mechanics/weapon-moves.md
+    - Equipment: mechanics/equipment.md
+    - Followers: mechanics/followers.md
+    - Downtime: mechanics/downtime.md
+    - Clocks: mechanics/clocks.md
+    - Wounds: mechanics/wounds.md
+    - Drones: mechanics/drones.md
+    - Enemies: mechanics/enemies.md
+  - Design Log:
+    - Perks: design-log/perks.md
+    - Followers: design-log/followers.md
+    - Advancement: design-log/advancement.md
+    - Character Creation: design-log/character-creation.md
+  - Setting:
+    - History: setting/history.md
+    - Politics: setting/politics.md
+    - Planets:
+      - Floaters: setting/planets/floaters.md
+      - Mars: setting/planets/mars.md
+      - Moon: setting/planets/moon.md
+      - Venus: setting/planets/venus.md
+    - Factions:
+      - Ash Network: setting/factions/ash-network.md
+      - Black Echo: setting/factions/black-echo.md
+      - Breakers of the Word: setting/factions/breakers-of-the-word.md
+      - Sapphire Reign: setting/factions/sapphire-reign.md
+  - Campaign:
+    - GM Reference: campaign/gm-reference.md
+    - Arcs:
+      - Wolves Among Sheep: campaign/arcs/wolves-among-sheep.md
+    - Threats:
+      - Mira: campaign/threats/mira.md
+      - The Bears: campaign/threats/the-bears.md
+      - The Shepherd: campaign/threats/the-shepherd.md
+    - Sites:
+      - Port Vala: campaign/sites/port-vala.md
+      - The Church: campaign/sites/the-church.md
+      - The Fold: campaign/sites/the-fold.md
+      - The Rave: campaign/sites/the-rave.md
+    - NPCs:
+      - Port Vala: campaign/npcs/port-vala.md
+      - The Fold: campaign/npcs/the-fold.md
+    - Factions:
+      - Cult of the Shepherd: campaign/factions/cult-of-the-shepherd.md
+  - References:
+    - Stonetop:
+      - Advancement & XP: references/stonetop/advancement-and-xp.md
+      - Adventure & Story Arcs: references/stonetop/adventure-and-story-arcs.md
+      - Encounters & Sites: references/stonetop/encounters-and-sites.md
+      - Information Gathering: references/stonetop/information-gathering-moves.md
+      - Monsters & Dangers: references/stonetop/monsters-and-dangers.md
+      - NPCs & Followers: references/stonetop/npcs-and-followers.md
+      - Playbooks: references/stonetop/playbooks.md
+      - Threats: references/stonetop/threats.md
+      - Weapons & Gear: references/stonetop/weapons-and-gear.md
