@@ -21,6 +21,11 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install mkdocs-material
+      - name: Stage docs
+        run: |
+          mkdir docs
+          cp -r mechanics design-log setting references campaign docs/
+          cp *.md docs/
       - run: mkdocs build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
