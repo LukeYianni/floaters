@@ -98,10 +98,10 @@ When you **take a ranged shot under pressure**, roll Hunt.
 | 4–5  | Pick 1 |
 | 1–3  | Hard GM move |
 
-- Deal damage, but **take fire** — they deal their damage to you
-- Deal damage, but **burn ammo** — spend 1 extra ammo
-- Deal damage, but **give ground** — they close on you; you lose range advantage
-- **Hold your shot** — wait for a clear moment; when it arrives (GM's call), deal your damage
+- Deal your damage, but spend 1 extra ammo
+- Hold steady and wait for a clear shot; when the moment arrives (GM's call), deal your damage
+- Move to get a clear shot — exposing yourself to danger or giving up your range advantage (GM says how) — then deal your damage
+- Rush the shot and deal your damage, leading to a cost or complication of the GM's choice
 
 ---
 
