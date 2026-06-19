@@ -71,6 +71,25 @@ A character can act to improve the position or effect of a teammate's follow-up 
 
 ---
 
+## Fight (Melee Attack)
+
+When you **attack an enemy in melee**, roll Fight.
+
+| Roll | Outcome |
+|------|---------|
+| 1–3  | Hard GM move. You don't deal damage. |
+| 4–5  | Trade blows. |
+| 6    | Trade blows. Choose 1. |
+| Crit | Trade blows — choose both. |
+
+**Trade blows:** you deal your weapon's damage to the enemy; the GM deals their damage to you (a wound, tier set by position).
+
+**The list:**
+- **Hit harder** — roll your damage die again and add the result
+- **Stay clean** — you don't take their damage this exchange
+
+---
+
 ## Defend
 
 When you **move to protect a crewmate**, roll Fight.
