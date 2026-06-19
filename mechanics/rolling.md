@@ -95,12 +95,13 @@ When you **take a ranged shot under pressure**, roll Hunt.
 |------|---------|
 | Crit | Deal damage — roll your damage die again and add it |
 | 6    | Deal damage — clean |
-| 4–5  | Deal damage — pick 1 cost |
+| 4–5  | Pick 1 |
 | 1–3  | Hard GM move |
 
-- **Take fire** — they deal their damage to you
-- **Burn ammo** — spend 1 extra ammo
-- **Give ground** — they close on you; you lose range advantage
+- Deal damage, but **take fire** — they deal their damage to you
+- Deal damage, but **burn ammo** — spend 1 extra ammo
+- Deal damage, but **give ground** — they close on you; you lose range advantage
+- **Hold your shot** — wait for a clear moment; when it arrives (GM's call), deal your damage
 
 ---
 
