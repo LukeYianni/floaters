@@ -87,7 +87,7 @@ When you **attack an enemy in melee**, roll Fight.
 **The list:**
 - **Hit harder** — roll your damage die again and add the result
 - **Stay clean** — you don't take their damage this exchange
-
+- or any other option specified by your weapon/perks 
 ---
 
 ## Defend
