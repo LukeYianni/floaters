@@ -71,6 +71,38 @@ A character can act to improve the position or effect of a teammate's follow-up 
 
 ---
 
+## Fight
+
+When you **engage an enemy in melee**, roll Fight.
+
+| Roll | Outcome |
+|------|---------|
+| Crit | Trade blows — choose both |
+| 6    | Trade blows — choose 1 |
+| 4–5  | Trade blows |
+| 1–3  | Hard GM move |
+
+- **Hit harder** — roll your damage die again and add it
+- **Stay clean** — you don't take their damage
+
+---
+
+## Hunt
+
+When you **take a ranged shot under pressure**, roll Hunt.
+
+| Roll | Outcome |
+|------|---------|
+| Crit | Trade shots — choose both |
+| 6    | Trade shots — choose 1 |
+| 4–5  | Trade shots |
+| 1–3  | Hard GM move |
+
+- **Hit harder** — roll your damage die again and add it
+- **Keep your distance** — the enemy doesn't close on you; you maintain range advantage
+
+---
+
 ## Defend
 
 When you **move to protect a crewmate**, roll Fight.
