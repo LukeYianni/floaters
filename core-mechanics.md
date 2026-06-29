@@ -37,7 +37,6 @@ A short-term personal advantage representing immediate opportunity.
   
 #### Spend Edge to:
 - Gain **+1d** to your own roll
-- Create a **small advantage**
 
 ---
 
@@ -47,7 +46,6 @@ A shared resource representing team synergy.
 - Tracked **0–6**
 
 #### Spend Flow to:
-- Activate **Flow abilities**
 - Trigger **Flow State**
 
 ---
@@ -57,7 +55,7 @@ A shared resource representing team synergy.
 1. Take risks → gain Edge  
 2. Spend Edge (personal benefit) or convert to Flow  
 3. Spend Flow for powerful team effects  
-4. Gain XP through crew behaviour  
+4. Gain XP through crew behaviour *(intended; mechanism not yet defined)*
 
 ---
 
@@ -124,7 +122,6 @@ At **6 Flow**:
 ### Effects (one scene or several actions):
 - Assist is free
 - +1d on team actions
-- Unlock Flow abilities
 
 ---
 

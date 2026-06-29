@@ -31,21 +31,7 @@ related: [core-mechanics.md, glossary.md]
 
 ---
 
-## Domains Integration
-- Should domains:
-  - Modify rolls directly?
-  - Or only gate abilities and triggers?
-
-(Currently deferred)
-
 ---
-
-## Individual XP Drives
-
-- What format do personal XP drives take? (free-form, chosen from a list, derived from Specialism?)
-- How many drives does a character have?
-- What counts as a valid drive — must it require danger or consequence, like crew XP triggers?
-- How does individual XP interact with crew XP — can both trigger in the same scene?
 
 ---
 

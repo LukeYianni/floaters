@@ -42,14 +42,12 @@ A Specialism is a character's chosen Domain. It grants a starting ability and st
 | **Enduring** | When you take a hit meant for an ally, you take the full consequence. That ally gains 1 Edge. | Armour and a melee weapon (with mod, TBD) |
 | **Explosives** | When you use an explosive, say what changes about the situation. The GM confirms or adjusts. The first ally to act on that change gains 1 Edge. | Demolitionist tools and grenades |
 | **Hacking** | When you access a system, ask the GM one question from the list below. The first ally to act on your answer gains 1 Edge. Questions: What does this system control or connect to? / Who has access, and at what level? / What has this system recorded that someone wants hidden? / What's the fastest way to make this system do something it shouldn't? / What is this network protecting? | Hacking tools and EMP |
-| **Killing** | When you succeed in using a weapon, choose 3 options from the weapon abilities list (5 on a crit). | A weapon with some mods |
+| **Killing** | When you succeed in using a weapon, choose one extra option from the Hunt move list. | A weapon with some mods |
 | **Mech Controller** | When your drone acts, say what it creates or reveals. The GM confirms or adjusts. The first ally to act on that gains 1 Edge. Only Mech Controllers can operate drones. See `mechanics/drones.md`. | A drone |
 | **Movement** | *(parked — fantasy not yet defined. Existing perks may be redistributed to other domains.)* | Mag-boots, a short-burst jetpack, and a stabiliser harness |
 | **Salvager** | When you enter a new location, say one thing here that the crew can use. The GM confirms or adjusts. The first ally to use it gains 1 Edge. | Salvaging tools and a basic carrying drone |
 | **Infiltrator** | When you deal with a threat before the crew encounters it, choose an ally. They gain 1 Edge when they act on the opening you created. | Lockpicks and infrared goggles |
 | **Investigator** | When you enter a new location or encounter a new situation, ask the GM one question from the list below. The first ally to act on your answer gains 1 Edge. Questions: What happened here, and when? / Who or what has been through here recently? / What is someone trying to hide? / What here is useful or dangerous to the crew? / Who is really in control of this situation? / What is about to happen? | Multispectrum visor, environmental scanner, and a set of tag darts |
-
-> **Blocker**: The Killing starting ability cannot be properly evaluated until the weapon abilities list exists. Before returning to this Specialism: (1) design the weapon options system and establish the baseline number of options any character gets on a hit, (2) then determine how many extra options Killing grants. The open question — should Killing always choose one extra option, with crits granting more — is the right starting point for that design.
 
 ---
 
@@ -84,7 +82,7 @@ When you've previously accessed a system, you can trigger one action through it 
 When you access a major system — a ship's controls, a building's security, a district's infrastructure — you can seize operational control rather than asking questions. Roll. On a hit, the system does what you direct for the rest of the scene. The GM will tell you what it costs or draws.
 
 **Generative Generator**
-You can undertake a downtime project to build a custom AI with a specified purpose. When operational, it can answer questions in its domain without a roll, and works autonomously on its purpose during downtime. The GM will tell you what problems it creates.
+*(Parked — needs significant design work. Intended as a subsystem/minigame in its own right: building and operating a custom AI. Current text removes rolls entirely, which conflicts with fiction-first principles. Return to this once the broader AI/hacking fiction is clearer.)*
 
 ---
 
@@ -94,7 +92,7 @@ You can undertake a downtime project to build a custom AI with a specified purpo
 
 ---
 
-### Covert
+### Infiltrator
 
 **Ambusher** — Tier 1, Deft
 - When you attack a target who is unaware of you, your strike creates an opening. Choose one: they are stunned and cannot act until they recover; you or an ally can immediately act against them without consequence; or they are silently neutralised before anyone notices.
@@ -114,7 +112,7 @@ You can undertake a downtime project to build a custom AI with a specified purpo
 ### Ballistics
 
 **Killer** — Tier Starter
-- You get to choose one extra option whenever you fire a weapon from the list of options you have.
+- When you fire a weapon, choose one extra option from the Hunt move list.
 
 **Ammo hoarder** — Tier 1, Grit
 - You have ammo crammed into every pocket. Your guns have an extra 3 ammo.
@@ -123,10 +121,10 @@ You can undertake a downtime project to build a custom AI with a specified purpo
 - You know how to modify guns, and learn three modifications of your choice.
 
 **Targeting body parts** — Tier 1, Deft
-- You can cut 1 to target a limb.
+- Remove 1 die from your pool before rolling to target a specific limb.
 
 **Boom Headshot** — Tier 2, Guile
-- When you successfully kill a target that you have aimed down a sight to hit, you still gain the scoped benefits until you either miss or are attacked.
+- When you kill a target after spending an action to line up the shot (Scoped), the great effect benefit carries over to your next shot without needing to spend another action. It ends if you miss or are attacked.
 
 **Gun nut - 2** — Tier 2
 - You can add modifiers to guns.
@@ -138,7 +136,7 @@ You can undertake a downtime project to build a custom AI with a specified purpo
 
 **Robotic Leg** — Tier 1, Grit
 You replace one leg with an electronic equivalent. Choose one augmentation. You can rebuy this perk to add another option.
-- **Piston kick**: When you kick something or someone, it deals Damage 2, Knock Back. *(Note: damage value and tags need review once weapon actions are fully defined.)*
+- **Piston kick**: When you kick something or someone, it deals Damage 2, Forceful. *(Note: damage value and tags need review once weapon actions are fully defined.)*
 - **Micro-thruster**: You can reach any open point in the scene above you or across a gap. You don't fall.
 - **Hidden compartment**: Your leg holds up to 1 load. Items stored here are undetectable by standard searches.
 
@@ -158,7 +156,7 @@ Your lenses also have optical zoom — you can read text or identify faces at di
 When you activate your EM vision in a new space, ask the GM one question: *What heat signatures or life signs are present but not visible? / What electrical systems or signals is this space running? / What reading here shouldn't exist?* You see through smoke, darkness, and most visual countermeasures.
 
 **Neural Link** — Tier 2, Guile
-You and any crew members with the same implant communicate silently at any range. When you coordinate via neural link before an ally acts, they roll with +1d on that action.
+You and any crew members with the same implant communicate silently at any range.
 
 **Mental Malware** — Tier 3, Grit
 When you attempt to seize control of one person's neural implants, roll. On a hit, choose one: they perform one action of your choosing; they freeze for the rest of the scene; they reveal information they wouldn't voluntarily share. This lasts until they sever the link or the scene changes. They know you're in their head.
@@ -177,7 +175,7 @@ A mesh of thin metal sits beneath your skin. It has 2 armor uses. When you would
 - You have an extra minor wound slot.
 
 **Experienced Recovery** — Tier 1, Guile
-- You get +1 effect to results when healing.
+- When you take the Healing downtime action, tick one extra segment on the healing clock.
 
 **Tank 2** — Tier 2, Grit
 - You have an extra major wound slot.
@@ -198,7 +196,7 @@ A mesh of thin metal sits beneath your skin. It has 2 armor uses. When you would
 - *(Open: Can they reroll all their dice, or only roll one additional die?)*
 
 **Cut the crap** — Tier 1, Grit
-- You are immune to the effects of an ally's ticks.
+- *(Parked — "ticks" was a stress-era mechanic that no longer exists. Effect needs redesigning.)*
 
 **On Me** — Tier 1, Deft
 - When you assist an ally, you can choose to take the full consequence yourself — your ally takes none.
@@ -222,7 +220,7 @@ A mesh of thin metal sits beneath your skin. It has 2 armor uses. When you would
 - When an ally resists a consequence, you can spend 1 Edge to take up to half the consequence in their place.
 
 **Inspirational** — Tier 2, Grit
-- As a downtime action, roll Grit. On a success, the crew starts the next scene with +2 Flow.
+- *(Parked — current version generates Flow in downtime without risk, violating design principles. Candidate for replacement with a Stonetop-style pre-battle speech move, e.g. We Happy Few.)*
 
 **Inspiring Criticals** — Tier 2, Deft
 - When you critically succeed, all allies who can see you gain 1 Flow.
@@ -260,7 +258,7 @@ A mesh of thin metal sits beneath your skin. It has 2 armor uses. When you would
 - When resisting a melee consequence, you can use Fight instead of the default action.
 
 **Weighted Strike** — Tier 2, Grit
-- You can mark 1 wear for +1 roll to an attack with a melee weapon.
+- Mark 1 wear to add +1d to an attack with a melee weapon.
 
 ---
 
@@ -315,6 +313,7 @@ A mesh of thin metal sits beneath your skin. It has 2 armor uses. When you would
 
 **Needles in a Haystack** — Tier 1, Grit
 - As a downtime action, sift through scrap and roll a d6: on a 1 find a piece of tech, 2 find ammo, 3 find fuel. You describe what it is as long as it makes sense. This uses the scrap.
+- *(Parked — results for 4, 5, and 6 not yet defined.)*
 
 **Fixer Upper** — Tier 2, Guile
 - You can spend time and salvage to remove negative tags from ship parts and items.
@@ -357,7 +356,6 @@ These perks have no Domain set in Notion and need to be categorised.
 ## Open Questions
 
 - Can characters buy perks outside their Specialism? If so, is there an XP surcharge?
-- The Killing specialism references a "weapon abilities list" — this list does not yet exist.
 - Several Specialism starting abilities are undefined: Explosives, Hacking, Movement, Stealth.
 - Poison list for the Poisoner perk is not designed.
 - Leader perk reroll mechanic needs clarification (all dice or one extra die?).

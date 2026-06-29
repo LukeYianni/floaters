@@ -52,15 +52,15 @@ XP can be spent at any time — there is no downtime gate.
 
 You must meet any prerequisites listed on a perk before purchasing it.
 
-Action ratings cap at **2**. An action rating already at 2 cannot be upgraded further.
+Action ratings cap at **3**. They begin capped at 2 at character creation; advancement can raise them to 3.
 
 > Open question: Is there an XP discount for perks within your Specialism? See `mechanics/perks.md`.
 
 ---
 
-## Crew XP (Optional)
+## Crew XP (Deferred)
 
-Crew XP is not yet decided. If included, it will award a maximum of **2 XP per session** to the whole crew based on crew-type behaviour. See `core-mechanics.md` for crew type definitions.
+Crew XP is intended but the mechanism is not yet defined. Each crew type has XP triggers in `core-mechanics.md` — the open question is how those triggers translate into an XP award and how that integrates with the end-of-session questions.
 
 ---
 

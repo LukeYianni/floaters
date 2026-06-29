@@ -167,6 +167,8 @@ Between sessions, review any followers the PCs have. If a tag or instinct no lon
 
 Followers might stop being followers for many reasons — they die, they move on, the relationship breaks down, the fiction changes. If the split is messy, the former follower may become a threat. If they've been harboring resentment, they may betray the PC at a bad moment.
 
+*(Note: Threat format is borrowed from Stonetop. Port the relevant rules from `references/stonetop/threats.md` into a `mechanics/threats.md` file.)*
+
 ---
 
 ## Example Follower

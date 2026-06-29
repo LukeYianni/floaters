@@ -20,12 +20,12 @@ Weapons use the same Load slots (see `weapons.md`).
 
 ## Consumables
 
-Each consumable occupies one slot and has a **stack size** — the number of uses you get from that slot. Tick one use each time you use the item. When the stack is empty:
+Each consumable occupies one slot and has a **uses track** — tick one use each time you use the item. When all uses are spent:
 
-- **Loose consumables** (stims, charges, grenades) — free the slot. There is nothing left to carry.
+- **Loose consumables** (charges, grenades) — free the slot. There is nothing left to carry.
 - **Ammo for a carried item** (rockets, canisters) — the slot stays occupied. You are still carrying the launcher.
 
-| Consumable | Load | Stack | Effect |
+| Consumable | Load | Uses | Effect |
 |---|---|---|---|
 | Medical Kit | 1 | 3 | Suppress one wound's penalty for the rest of the day. Does not remove the wound. |
 | Smoke Grenade | 1 | 2 | Obscures an area. Creates cover and concealment. |
@@ -53,7 +53,7 @@ When all wear is ticked, the armor is spent for the session.
 
 Tools are kits, not individual items. One card covers a whole domain.
 
-Any character can use any tool. Without the relevant skill, they roll zero dice — meaning they roll two dice and take the lowest (see `rolling.md`).
+Any character can use any tool. Without the relevant action rating, they roll zero dice — meaning they roll two dice and take the lowest (see `rolling.md`).
 
 Tools are persistent — no wear tracking. If a tool is exhausted or lost, that is a fiction consequence called by the GM.
 

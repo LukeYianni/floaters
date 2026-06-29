@@ -9,6 +9,8 @@ Drones are small, animal-shaped remote units used by Mech Controllers to act at 
 
 The **Mech Controller** specialism is required to operate a drone. See `mechanics/perks.md`.
 
+By default, a Mech Controller operates one drone at a time. Perks (Split Focus, Hive Mind) extend this.
+
 ---
 
 ## Deploying and Storing

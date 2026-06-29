@@ -9,12 +9,12 @@ Tags are passive properties on weapons. They describe what a weapon can do beyon
 ---
 
 ## Automatic
-Spend X ammo to add X damage and X targets to a shot (there must be X targets).
+Mark ammo to roll against all targets in range.
 
 ---
 
 ## Cleave
-Add another target next to you.
+Adds **Cleave** as a Fight option: deal your damage to another adjacent target.
 
 ---
 
@@ -43,7 +43,7 @@ Hits everyone nearby to the target.
 
 ---
 
-## Knock Back
+## Forceful
 Knock an enemy back a few paces or down.
 
 ---
@@ -64,17 +64,12 @@ You knock an enemy unconscious rather than kill them outright.
 ---
 
 ## Parry
-Spend a wear to roll an action to resist damage from a melee attack.
-
----
-
-## Pull
-Pull the enemy closer towards you.
+When you suffer a melee attack, mark 1 wear to roll Fight to resist it — without spending Edge.
 
 ---
 
 ## Scoped
-−1 to rolls when you haven't spent time lining up the shot, or against fast-moving opponents. +1 when you do.
+When you spend your action lining up the shot instead of firing, your next Hunt roll is at great effect. If you fire rushed or at a fast-moving target, roll with −1d.
 
 ---
 
@@ -84,7 +79,7 @@ Pull the enemy closer towards you.
 ---
 
 ## Spread
-Add an extra target next to the original.
+Adds **Spread** as a Hunt option: deal your damage to another adjacent target.
 
 ---
 

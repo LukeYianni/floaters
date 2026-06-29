@@ -60,8 +60,9 @@ A crew of specialists builds momentum together and unleashes it in decisive mome
 ---
 
 ### 8. No Downtime Dependency
-- Resources are generated during action
-- No reliance on recovery phases
+- Core resources (Edge, Flow) are generated during action
+- No reliance on downtime to restore or generate Edge or Flow
+- Downtime activities (Training, healing) are supplemental, not required for advancement
 
 ---
 

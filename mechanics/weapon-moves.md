@@ -8,20 +8,6 @@ Weapon Moves are special actions tied to specific weapons. A character can only 
 
 ---
 
-## Burst Fire
-**Weapons:** Light Machine Gun, Assault Rifle
-
-Spend X ammo to add X damage split between all targets in an area (there must be multiple targets).
-
----
-
-## Cleave
-**Weapons:** Sword
-
-Mark 1 wear to carry through excess damage to another target next to you.
-
----
-
 ## Confuse Senses
 **Weapons:** Flashbang
 
@@ -32,7 +18,7 @@ On a hit, you've thrown them off balance, blinded them, deafened them, or confus
 ## Covering Fire
 **Weapons:** Light Machine Gun
 
-Spend 2 ammo to give everyone in a nearby area the pinned condition.
+Mark ammo to give everyone in a nearby area the pinned condition.
 
 ---
 
@@ -53,7 +39,7 @@ Forgo damage, but you knock a weapon out and away from an enemy.
 ## Double Tap
 **Weapons:** Pistol
 
-Spend 1 ammo to deal +1 damage.
+Mark ammo to deal +1 damage.
 
 ---
 
@@ -61,13 +47,6 @@ Spend 1 ammo to deal +1 damage.
 **Weapons:** Dagger, Sniper Rifle
 
 Target an unsuspecting or vulnerable target to ignore armour and deal +1 damage.
-
----
-
-## Parry
-**Weapons:** Sword, Rapier
-
-Mark wear to +1 to resist damage (or to use fight instead?).
 
 ---
 
@@ -81,14 +60,8 @@ Push yourself to draw your weapon and shoot it as a reaction to an enemy acting.
 ## Spray and Pray
 **Weapons:** Sub-machine Gun, Light Machine Gun
 
-Spend as much ammo as you would like, and roll that amount of dice rather than an action.
-
----
-
-## Spread
-**Weapons:** Shotgun
-
-Spend 1 ammo to split damage across a group of targets next to each other.
+Mark ammo to roll an extra die for each ammo status you mark (maximum 2 extra dice).
+*(Note: previously variable ammo spend — reworked for abstract ammo track.)*
 
 ---
 

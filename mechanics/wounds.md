@@ -50,6 +50,8 @@ Each character has:
 - 2 **Major** slots
 - 1 **Critical** slot
 
+Certain perks (e.g. Tank, Tank 2) can add extra slots at a given tier.
+
 **Overflow**: if a wound arrives at a fully occupied tier, it upgrades to the next tier.
 
 **Taken out**: if a wound would overflow beyond Critical, the character is dead.
@@ -80,9 +82,8 @@ When you would take a wound, you may tick one wear on your armor to downgrade th
 
 Suppresses the penalty of one wound for the rest of the day. Does not remove the wound.
 
-- Load 1, Stack 3
+- Load 1, Uses 3
 
-> Note: The Medical Kit replaces Stims in `mechanics/equipment.md`. Update that file separately.
 
 ---
 

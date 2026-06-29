@@ -8,7 +8,7 @@ related: [core-mechanics.md, glossary.md]
 
 ## The Dice Pool
 
-When a character acts and the outcome is uncertain, they roll a pool of d6s. The pool is built from their rating in the relevant **action** (0–4 dice). Take the **highest single die** as the result.
+When a character acts and the outcome is uncertain, they roll a pool of d6s. The pool is built from their rating in the relevant **action** (0–3 dice). Take the **highest single die** as the result.
 
 The nine actions, grouped by characteristic:
 
@@ -84,6 +84,7 @@ When you **engage an enemy in melee**, roll Fight.
 
 - **Hit harder** — roll your damage die again and add it
 - **Stay clean** — you don't take their damage
+- **Cleave** — deal your damage to another adjacent target (requires a weapon with the Cleave tag)
 
 ---
 
@@ -98,10 +99,11 @@ When you **take a ranged shot under pressure**, roll Hunt.
 | 4–5  | Pick 1 |
 | 1–3  | Hard GM move |
 
-- Deal your damage, but spend 1 ammo
+- Deal your damage, but mark ammo
 - Hold steady and wait for a clear shot; when the moment arrives (GM's call), deal your damage
 - Move to get a clear shot — exposing yourself to danger or giving up your range advantage (GM says how) — then deal your damage
 - Rush the shot and deal your damage, leading to a cost or complication of the GM's choice
+- **Spread** — deal your damage to another adjacent target (requires a weapon with the Spread tag)
 
 ---
 
@@ -125,6 +127,12 @@ Spend holds 1-for-1 while your crewmate is threatened:
 When you **press the attack, break away, or the threat resolves**, lose any holds you have.
 
 When your **ward acts successfully while you hold this stance**, generate 1 Flow.
+
+---
+
+## Fortune Roll
+
+When the outcome of something is uncertain and no character action determines it, roll a d6. On a 1–3, things go badly or randomly against the crew. On a 4–6, things go in the crew's favour or remain neutral. Some perks modify this roll.
 
 ---
 
