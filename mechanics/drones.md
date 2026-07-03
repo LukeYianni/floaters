@@ -50,19 +50,66 @@ Drones have a wear track. Mark wear when the drone takes damage or is pushed bey
 
 ## Drone Item Card
 
-A drone is an item card like any other. Its default profile:
+All drones share the same base profile:
 
 | Item | Load | Wear |
 |---|---|---|
 | Drone | 2 | 3 |
 
-A drone's capabilities come entirely from its **tags and modifications**. A drone with no tags can observe and move, nothing more.
+A drone with no upgrades can observe and move, nothing more. All other capabilities come from upgrades.
 
-Example tags a drone might carry:
-- *Armed* — carries a weapon; specify which one
-- *Compact* — fits through small spaces a person couldn't
-- *Silent* — movement makes no detectable noise
-- *Reinforced* — +1 wear
-- *Long-range transmitter* — extends pilot range beyond line of sight
+---
 
-Tags and modifications follow the same rules as any other item (see `mechanics/equipment.md`).
+## Drone Creation
+
+At character creation, the Mech Controller builds their starting drone. Choose **2 upgrades** from the upgrade list below.
+
+Additional upgrades can be added during play through the Modification procedure below — there is no hard cap. Parts and knowledge are the only limits.
+
+---
+
+## Upgrade List
+
+### Mobility
+- **Aerial** — flying. *Incompatible with: Aquatic. Clock: 8.*
+- **Aquatic** — aquatic. *Clock: 8.*
+- **Compact** — compact. *Incompatible with: Large. Clock: 6.*
+- **Micro** — fits through any space a rat could; Wear reduced to 1. *Incompatible with: Large. Clock: 8.*
+
+### Size
+- **Large** — Wear +2, Load +2. *Incompatible with: Compact, Micro, Silent. Clock: 8.*
+
+### Capability
+- **Armed** — carries one weapon; specify which. The drone can make attacks. *Clock: 6.*
+- **Manipulators** — has limbs capable of fine motor tasks: opening doors, operating controls, carrying objects. *Clock: 6.*
+- **Sensor Suite** — enhanced perception. When deployed to a new area, ask the GM one question: *What is moving or active here that I can't see? / What signals or systems is this space running? / What danger is present but not obvious?* *Clock: 6.*
+
+### Resilience & Stealth
+- **Reinforced** — Wear +1. *Clock: 4.*
+- **Silent** — movement and operation produce no detectable sound. *Incompatible with: Large. Clock: 6.*
+
+### Communication
+- **Long-range Transmitter** — pilot range extends beyond line of sight to the limits of local comms infrastructure. *Clock: 4.*
+
+---
+
+## Modification
+
+To add, remove, or swap an upgrade after creation, the Mech Controller must:
+
+1. **Know the modification** — either find a schematic in the fiction, or complete a Research project (downtime, roll Study to advance).
+2. **Complete the installation** — undertake a Modification project (downtime, roll Fix to advance). Use the clock size listed on the upgrade. When the clock fills, the upgrade is installed.
+
+> Note: Parts costs are not yet defined. They will be tracked on the ship character sheet (not yet written).
+
+---
+
+## Incompatibility Reference
+
+| Upgrade | Incompatible with |
+|---|---|
+| Aerial | — |
+| Compact | Large |
+| Micro | Large |
+| Large | Compact, Micro, Silent |
+| Silent | Large |
